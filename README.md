@@ -2,12 +2,11 @@
 
 **A student project exploring shelter-animal data and transparent preference matching.**
 
-Created by **Tihomira Miteva**, Pet Matcher explores how data can support people looking for a pet. The project includes a dataset used for the Bulgarian shelter-domain study, EDA, model benchmarks and a local Flask preference-matching demo.
+Pet Matcher explores how data can support people looking for a pet. The project includes a dataset used for the Bulgarian shelter-domain study, EDA, model benchmarks and a local Flask preference-matching demo.
 
 ## Project materials
 
 - [Project notebook](notebooks/Pet_Matcher.ipynb)
-- [Read-only notebook report](reports/Pet_Matcher.html)
 - [Project proposal](docs/project_proposal.pdf)
 - [Domain understanding](docs/domain_understanding.pdf)
 - [Dataset](data/bulgarian_shelter_animals.csv)
