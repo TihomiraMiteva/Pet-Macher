@@ -1,0 +1,992 @@
+animal_id,shelter_id,name,species,breed,age_years,gender,size,color,temperament,activity_level,good_with_kids,good_with_pets,health_status,sterilized,vaccinated,arrival_date,adoption_status,notes
+1001,1,Tosho,Dog,Rottweiler,5.8,Male,Medium,Golden,Energetic,Low,Unknown,No,Healthy,No,Yes,2025-02-02,Adopted,Calm temperament
+1002,1,Ivo,Dog,Husky,3.2,Female,Small,Golden,Playful,Low,Unknown,Yes,Unknown,No,No,2023-10-09,Available,Needs training
+1003,1,Lili,Cat,Bengal,1.7,Male,Small,Mixed,Energetic,High,Yes,Unknown,Special needs,Yes,No,2024-10-13,Adopted,Shy but loving
+1004,1,Mira,Cat,Sphynx,13.7,Male,Small,Black,Independent,Low,Yes,No,Healthy,No,Yes,2025-08-05,Adopted,Shy but loving
+1005,1,Geri,Dog,German Shepherd,10.5,Male,Medium,Black,Independent,Medium,Yes,Yes,Healthy,No,Yes,2024-05-01,Reserved,Calm temperament
+1006,1,Reni,Cat,Persian,13.3,Female,Small,Black,Energetic,Medium,Unknown,Unknown,Special needs,Yes,Yes,2025-07-10,Adopted,Adapts easily
+1007,1,Reni,Dog,Mixed,1.4,Male,Small,Mixed,Playful,High,Yes,Unknown,Unknown,No,No,2024-07-20,Reserved,Great with families
+1008,1,Mila,Dog,Husky,14.8,Male,Large,Brown,Energetic,Low,No,No,Unknown,No,Yes,2024-03-21,Adopted,Great with families
+1009,1,Ivo,Cat,Siamese,9.6,Male,Medium,Golden,Energetic,Low,Unknown,Unknown,Special needs,No,No,2024-11-19,Adopted,Playful and energetic
+1010,1,Vasko,Cat,Bengal,9.1,Female,Small,Black,Protective,Low,No,Yes,Unknown,Yes,Yes,2024-03-22,Adopted,Calm temperament
+1011,1,Tosho,Dog,Cocker Spaniel,6.7,Male,Large,Mixed,Independent,Low,Unknown,Unknown,Unknown,Yes,Yes,2025-05-04,Adopted,Great with families
+1012,1,Stella,Cat,Ragdoll,6.6,Male,Medium,Orange,Affectionate,Medium,Yes,Unknown,Special needs,Yes,No,2023-11-18,Reserved,Prefers quiet environment
+1013,1,Reni,Cat,Ragdoll,13.9,Male,Medium,Orange,Friendly,Medium,Unknown,Unknown,Unknown,No,Yes,2025-01-17,Adopted,Calm temperament
+1014,1,Sasho,Dog,Poodle,2.3,Male,Small,Black,Playful,High,Unknown,Unknown,Special needs,Yes,Yes,2024-06-26,Available,Calm temperament
+1015,1,Ivo,Dog,Husky,6.9,Female,Small,Cream,Playful,Medium,No,Unknown,Healthy,No,No,2025-07-15,Adopted,Shy but loving
+1016,1,Boris,Dog,Poodle,8.0,Female,Small,Golden,Playful,Medium,Yes,Unknown,Healthy,Yes,Yes,2024-07-14,Adopted,Prefers quiet environment
+1017,1,Boris,Dog,Beagle,7.3,Female,Medium,White,Calm,Low,Unknown,Unknown,Unknown,No,Yes,2025-07-30,Available,Very social
+1018,1,Vasko,Cat,Maine Coon,12.2,Female,Medium,Brown,Playful,Medium,Yes,No,Healthy,No,Yes,2025-03-16,Adopted,Needs training
+1019,1,Rado,Cat,Mixed,11.7,Male,Medium,Orange,Protective,Medium,No,No,Unknown,No,No,2024-05-12,Available,Needs training
+1020,1,Toni,Dog,Golden Retriever,0.8,Male,Large,Golden,Independent,Medium,No,No,Healthy,Yes,Yes,2025-07-07,Reserved,Very social
+1021,1,Reni,Cat,Bengal,1.6,Male,Small,Mixed,Friendly,Medium,Yes,Unknown,Healthy,No,No,2024-09-20,Reserved,Shy but loving
+1022,1,Boris,Cat,Persian,6.4,Female,Medium,Black,Playful,High,Yes,No,Healthy,Yes,No,2024-01-11,Reserved,Calm temperament
+1023,1,Sasho,Dog,Cocker Spaniel,6.0,Female,Large,Mixed,Shy,Medium,Unknown,No,Unknown,Yes,Yes,2024-11-11,Available,Needs training
+1024,1,Tosho,Cat,Bengal,6.1,Female,Medium,Brown,Energetic,Low,No,Yes,Special needs,No,Yes,2024-01-21,Available,Great with families
+1025,1,Vasko,Cat,Persian,2.6,Female,Small,Mixed,Shy,High,No,Unknown,Unknown,No,Yes,2024-10-17,Available,Adapts easily
+1026,1,Raya,Dog,Rottweiler,12.8,Female,Large,Orange,Friendly,High,Yes,No,Healthy,Yes,No,2025-02-05,Adopted,Playful and energetic
+1027,1,Petya,Cat,Mixed,6.9,Male,Small,Golden,Energetic,Low,No,Unknown,Special needs,No,Yes,2025-09-13,Available,Adapts easily
+1028,1,Geri,Dog,Bulldog,14.6,Male,Large,White,Protective,High,No,Yes,Healthy,Yes,Yes,2024-10-13,Available,Very social
+1029,1,Stella,Cat,Ragdoll,10.7,Male,Small,Black,Playful,High,Yes,Yes,Healthy,Yes,Yes,2024-05-16,Available,Great with families
+1030,1,Raya,Dog,Labrador Retriever,8.5,Female,Medium,Orange,Calm,High,No,Yes,Healthy,No,No,2025-08-01,Adopted,Playful and energetic
+1031,1,Pavel,Dog,Husky,8.9,Female,Medium,Brown,Affectionate,Medium,Yes,No,Healthy,No,Yes,2025-05-29,Reserved,Calm temperament
+1032,1,Sasho,Cat,Maine Coon,2.2,Male,Medium,Gray,Calm,Low,No,Yes,Special needs,No,No,2024-07-01,Available,Very social
+1033,1,Reni,Cat,Persian,11.8,Male,Small,White,Protective,Medium,Yes,No,Unknown,No,Yes,2024-09-16,Available,Adapts easily
+1034,1,Toni,Cat,British Shorthair,6.2,Female,Medium,Brown,Friendly,Medium,No,Yes,Healthy,Yes,Yes,2024-06-24,Adopted,Playful and energetic
+1035,1,Koko,Dog,Rottweiler,6.3,Male,Small,Mixed,Energetic,Low,Yes,Unknown,Healthy,No,No,2025-05-05,Available,Very social
+1036,1,Mira,Dog,Bulldog,2.8,Male,Large,Mixed,Shy,High,Unknown,Unknown,Healthy,Yes,No,2025-08-06,Reserved,Playful and energetic
+1037,1,Niko,Dog,Husky,13.4,Female,Medium,Black,Shy,High,Unknown,Unknown,Healthy,Yes,Yes,2024-05-26,Available,Adapts easily
+1038,1,Kuma,Cat,British Shorthair,3.0,Male,Medium,Black,Shy,High,No,No,Special needs,Yes,Yes,2024-02-09,Adopted,Great with families
+1039,1,Ivo,Cat,Ragdoll,1.9,Male,Small,Black,Calm,High,No,Yes,Healthy,No,No,2025-03-23,Available,Needs training
+1040,1,Vasko,Dog,Mixed,7.3,Male,Small,Cream,Playful,High,Unknown,Unknown,Special needs,Yes,No,2024-01-30,Available,Needs training
+1041,1,Stella,Dog,Cocker Spaniel,3.8,Female,Medium,White,Shy,Low,Yes,No,Special needs,Yes,No,2024-12-09,Adopted,Calm temperament
+1042,1,Boris,Dog,Bulldog,2.0,Female,Medium,Golden,Protective,Low,Yes,Unknown,Healthy,No,Yes,2025-07-05,Reserved,Calm temperament
+1043,1,Stella,Dog,Mixed,12.7,Male,Small,Black,Protective,High,No,No,Special needs,No,No,2024-07-26,Available,Calm temperament
+1044,1,Vasko,Cat,Mixed,3.4,Male,Medium,Golden,Calm,High,Yes,Unknown,Healthy,Yes,Yes,2024-10-05,Available,Shy but loving
+1045,1,Mila,Cat,British Shorthair,2.1,Female,Small,Cream,Independent,High,Unknown,Yes,Healthy,Yes,Yes,2025-03-27,Available,Needs training
+1046,1,Misho,Dog,Cocker Spaniel,4.3,Male,Small,Orange,Calm,Low,Yes,No,Unknown,Yes,No,2025-02-10,Reserved,Calm temperament
+1047,1,Mira,Dog,Rottweiler,7.8,Female,Medium,Golden,Protective,Low,No,No,Healthy,No,No,2024-06-18,Adopted,Very social
+1048,1,Deyan,Cat,Persian,6.5,Female,Small,Golden,Affectionate,Medium,Unknown,No,Healthy,Yes,No,2024-12-23,Adopted,Prefers quiet environment
+1049,1,Niko,Cat,Ragdoll,10.1,Female,Small,Orange,Protective,Medium,No,Unknown,Special needs,No,No,2025-09-30,Available,Prefers quiet environment
+1050,1,Dara,Cat,Mixed,12.3,Male,Medium,Cream,Playful,High,No,Yes,Special needs,Yes,Yes,2025-06-05,Reserved,Prefers quiet environment
+1051,1,Geri,Dog,Bulldog,8.7,Male,Large,Golden,Energetic,Low,No,Yes,Special needs,Yes,Yes,2024-12-05,Available,Playful and energetic
+1052,1,Zoya,Dog,Bulldog,9.6,Male,Large,Gray,Protective,High,Unknown,No,Healthy,Yes,No,2024-01-31,Adopted,Very social
+1053,1,Boris,Cat,Maine Coon,2.1,Male,Small,Brown,Affectionate,High,No,No,Special needs,Yes,No,2024-02-02,Reserved,Calm temperament
+1054,1,Koko,Cat,Siamese,9.8,Female,Small,White,Shy,Low,Yes,Yes,Unknown,Yes,No,2024-03-30,Adopted,Prefers quiet environment
+1055,2,Sasho,Cat,Ragdoll,10.8,Male,Small,Gray,Energetic,Medium,No,Unknown,Healthy,No,No,2025-03-02,Available,Prefers quiet environment
+1056,2,Toni,Dog,Beagle,13.1,Female,Large,Golden,Friendly,Medium,No,No,Healthy,Yes,No,2024-10-15,Adopted,Prefers quiet environment
+1057,2,Raya,Cat,Persian,8.3,Female,Small,Mixed,Protective,High,No,Yes,Unknown,No,Yes,2025-08-01,Adopted,Great with families
+1058,2,Raya,Cat,Sphynx,2.6,Male,Medium,Mixed,Affectionate,Low,Yes,No,Healthy,Yes,No,2024-04-22,Reserved,Shy but loving
+1059,2,Kuma,Dog,Beagle,12.0,Male,Large,Orange,Independent,High,No,Yes,Healthy,Yes,No,2025-09-26,Reserved,Playful and energetic
+1060,2,Niko,Dog,Golden Retriever,14.0,Female,Small,Brown,Affectionate,High,Unknown,Yes,Healthy,Yes,No,2023-11-04,Reserved,Prefers quiet environment
+1061,2,Vasko,Dog,German Shepherd,3.4,Male,Large,Cream,Independent,High,Yes,Yes,Healthy,No,Yes,2024-11-07,Reserved,Adapts easily
+1062,2,Raya,Cat,Maine Coon,6.5,Female,Medium,Black,Affectionate,High,No,Yes,Special needs,Yes,No,2025-04-08,Reserved,Calm temperament
+1063,2,Mira,Dog,Golden Retriever,10.0,Male,Small,Mixed,Friendly,High,Unknown,No,Special needs,No,Yes,2025-08-29,Adopted,Needs training
+1064,2,Niko,Cat,Bengal,4.5,Male,Medium,Mixed,Playful,Low,Yes,Unknown,Special needs,Yes,No,2024-02-04,Adopted,Shy but loving
+1065,2,Stella,Dog,Cocker Spaniel,1.1,Male,Small,Orange,Shy,Medium,Unknown,Yes,Unknown,No,No,2024-06-27,Available,Very social
+1066,2,Tosho,Dog,Poodle,8.9,Male,Small,Cream,Friendly,High,Yes,Yes,Special needs,No,No,2024-05-14,Adopted,Shy but loving
+1067,2,Tosho,Dog,Beagle,3.2,Male,Medium,Orange,Shy,Medium,Unknown,Yes,Healthy,No,Yes,2023-11-19,Available,Great with families
+1068,2,Petya,Dog,German Shepherd,5.8,Female,Medium,Brown,Protective,High,No,Unknown,Unknown,Yes,Yes,2025-09-05,Available,Calm temperament
+1069,2,Niko,Cat,Persian,5.3,Female,Small,Brown,Shy,High,Yes,Unknown,Unknown,No,No,2025-06-28,Reserved,Needs training
+1070,2,Stella,Dog,German Shepherd,7.9,Male,Small,Brown,Independent,Low,No,No,Special needs,Yes,Yes,2024-03-01,Adopted,Needs training
+1071,2,Koko,Cat,Mixed,5.9,Female,Medium,Mixed,Affectionate,Medium,No,Unknown,Special needs,Yes,No,2024-07-03,Reserved,Needs training
+1072,2,Lili,Dog,Golden Retriever,4.2,Female,Small,Mixed,Calm,Medium,Unknown,Unknown,Healthy,No,Yes,2025-09-22,Available,Very social
+1073,2,Mira,Dog,Rottweiler,2.5,Male,Medium,Black,Independent,Medium,Unknown,Yes,Healthy,No,No,2024-09-27,Adopted,Needs training
+1074,2,Lili,Cat,Mixed,13.9,Female,Medium,White,Protective,Medium,Unknown,Yes,Healthy,No,Yes,2025-03-16,Available,Playful and energetic
+1075,2,Rado,Cat,Persian,12.5,Male,Medium,Cream,Energetic,High,Unknown,Unknown,Healthy,Yes,No,2024-06-14,Reserved,Calm temperament
+1076,2,Deyan,Dog,Rottweiler,2.8,Male,Medium,Mixed,Friendly,Medium,No,Unknown,Special needs,Yes,No,2024-03-13,Reserved,Adapts easily
+1077,2,Deyan,Dog,Beagle,5.1,Male,Medium,Brown,Playful,Medium,Yes,Yes,Special needs,Yes,Yes,2025-05-28,Reserved,Very social
+1078,2,Petya,Cat,Maine Coon,14.0,Male,Medium,Orange,Shy,Medium,No,Yes,Unknown,No,Yes,2023-12-09,Available,Prefers quiet environment
+1079,2,Dara,Dog,Labrador Retriever,5.7,Male,Medium,White,Affectionate,Medium,Yes,Yes,Unknown,No,No,2024-02-26,Adopted,Shy but loving
+1080,2,Reni,Cat,Mixed,4.1,Female,Small,Orange,Independent,High,Unknown,No,Unknown,No,Yes,2024-11-18,Adopted,Prefers quiet environment
+1081,2,Rado,Cat,Ragdoll,11.0,Female,Medium,Black,Protective,High,No,No,Unknown,Yes,No,2025-01-27,Reserved,Needs training
+1082,2,Lili,Cat,Siamese,11.9,Male,Small,Black,Protective,High,Unknown,Yes,Healthy,Yes,Yes,2024-08-01,Adopted,Shy but loving
+1083,2,Tosho,Cat,Siamese,14.7,Female,Medium,Golden,Friendly,Medium,No,Yes,Special needs,Yes,No,2023-10-27,Available,Great with families
+1084,2,Deyan,Cat,Sphynx,5.2,Female,Small,Golden,Independent,Medium,Unknown,Unknown,Special needs,No,Yes,2024-06-08,Available,Prefers quiet environment
+1085,2,Toni,Dog,Beagle,2.0,Female,Small,Brown,Independent,Low,Unknown,No,Unknown,Yes,No,2024-07-22,Adopted,Calm temperament
+1086,2,Niko,Cat,Maine Coon,11.3,Male,Small,Black,Shy,Medium,No,Unknown,Special needs,No,No,2025-08-01,Reserved,Playful and energetic
+1087,2,Zoya,Cat,Maine Coon,7.6,Female,Small,Black,Calm,High,Unknown,Unknown,Special needs,No,Yes,2024-02-17,Available,Shy but loving
+1088,2,Koko,Cat,Mixed,14.5,Male,Medium,Brown,Friendly,High,Unknown,Yes,Special needs,No,No,2024-09-07,Available,Needs training
+1089,2,Raya,Cat,Maine Coon,14.0,Male,Small,Mixed,Shy,High,Unknown,Unknown,Healthy,Yes,Yes,2024-11-26,Available,Needs training
+1090,2,Koko,Cat,Ragdoll,7.9,Female,Small,Cream,Shy,High,Yes,Unknown,Special needs,Yes,No,2024-05-29,Available,Very social
+1091,2,Niko,Cat,British Shorthair,2.3,Male,Small,Black,Independent,High,Yes,No,Healthy,Yes,No,2024-02-27,Reserved,Playful and energetic
+1092,2,Misho,Cat,Bengal,8.9,Male,Medium,Orange,Energetic,High,Unknown,Yes,Unknown,No,No,2023-12-29,Reserved,Playful and energetic
+1093,2,Emo,Cat,Bengal,1.4,Male,Small,White,Friendly,High,Unknown,Yes,Healthy,Yes,Yes,2024-04-16,Reserved,Very social
+1094,3,Niko,Cat,Maine Coon,14.3,Female,Small,Brown,Energetic,Low,Yes,Yes,Unknown,No,No,2025-03-19,Adopted,Playful and energetic
+1095,3,Reni,Cat,Ragdoll,2.0,Female,Small,Mixed,Independent,Low,Unknown,Yes,Unknown,No,Yes,2025-03-23,Available,Playful and energetic
+1096,3,Emo,Dog,Husky,14.4,Female,Medium,Black,Shy,Medium,Unknown,No,Unknown,Yes,No,2024-09-05,Reserved,Adapts easily
+1097,3,Petya,Cat,Bengal,11.4,Female,Medium,Cream,Calm,Low,Unknown,Yes,Unknown,Yes,No,2024-11-28,Available,Needs training
+1098,3,Mila,Dog,Bulldog,8.3,Male,Small,Cream,Energetic,Medium,No,Yes,Special needs,No,No,2025-04-03,Reserved,Very social
+1099,3,Rado,Dog,Bulldog,7.3,Female,Medium,Gray,Protective,High,Yes,No,Healthy,No,Yes,2024-07-05,Reserved,Calm temperament
+1100,3,Zoya,Dog,Beagle,12.0,Male,Large,Brown,Friendly,High,Unknown,Unknown,Healthy,Yes,No,2024-08-16,Adopted,Great with families
+1101,3,Stella,Cat,Ragdoll,14.9,Female,Medium,Brown,Energetic,High,No,Yes,Special needs,Yes,Yes,2023-12-21,Available,Very social
+1102,3,Stella,Cat,Sphynx,5.2,Female,Medium,Orange,Independent,Medium,Yes,Yes,Healthy,Yes,Yes,2025-09-20,Reserved,Adapts easily
+1103,3,Mila,Cat,Mixed,3.7,Female,Medium,Orange,Calm,High,Yes,No,Unknown,Yes,No,2025-01-08,Adopted,Calm temperament
+1104,3,Mila,Cat,Maine Coon,3.4,Male,Small,Black,Independent,High,Yes,Unknown,Healthy,No,No,2025-01-29,Available,Calm temperament
+1105,3,Niko,Dog,Poodle,8.5,Female,Large,Mixed,Energetic,Low,Unknown,No,Unknown,Yes,Yes,2025-05-06,Reserved,Calm temperament
+1106,3,Lili,Dog,Bulldog,5.2,Female,Medium,Brown,Shy,Medium,Unknown,Unknown,Healthy,No,No,2025-01-03,Reserved,Shy but loving
+1107,3,Vasko,Dog,Poodle,6.5,Female,Large,Gray,Friendly,High,Yes,Yes,Special needs,Yes,Yes,2023-11-02,Available,Shy but loving
+1108,3,Kuma,Cat,Mixed,3.9,Female,Small,Orange,Protective,Low,Yes,Unknown,Special needs,Yes,Yes,2024-05-20,Available,Shy but loving
+1109,3,Mira,Dog,Cocker Spaniel,8.9,Male,Medium,Black,Protective,Low,Yes,No,Special needs,No,No,2024-06-22,Adopted,Shy but loving
+1110,3,Reni,Dog,Poodle,13.2,Male,Small,Gray,Playful,Low,No,No,Healthy,No,Yes,2025-05-30,Adopted,Great with families
+1111,3,Koko,Dog,Husky,2.6,Female,Medium,Orange,Calm,Medium,No,No,Special needs,Yes,Yes,2024-10-08,Reserved,Very social
+1112,3,Reni,Dog,Golden Retriever,4.0,Female,Medium,Golden,Protective,High,No,Yes,Special needs,Yes,No,2024-02-27,Reserved,Adapts easily
+1113,3,Ivo,Cat,Bengal,0.9,Female,Small,Golden,Friendly,Low,No,Unknown,Special needs,No,No,2023-11-18,Adopted,Needs training
+1114,3,Niko,Dog,Labrador Retriever,12.6,Male,Small,Mixed,Calm,Medium,Unknown,Unknown,Special needs,Yes,No,2025-05-22,Reserved,Adapts easily
+1115,3,Geri,Dog,Mixed,2.5,Male,Medium,Black,Energetic,High,Unknown,No,Unknown,Yes,Yes,2025-06-03,Adopted,Prefers quiet environment
+1116,3,Misho,Cat,Persian,12.8,Female,Medium,Cream,Calm,Low,No,Unknown,Healthy,No,No,2023-10-11,Available,Calm temperament
+1117,3,Deyan,Dog,Rottweiler,9.9,Female,Medium,White,Independent,Low,No,Unknown,Special needs,Yes,No,2024-10-05,Reserved,Prefers quiet environment
+1118,3,Emo,Dog,Rottweiler,6.1,Female,Medium,Gray,Friendly,Medium,Unknown,No,Healthy,Yes,No,2025-08-16,Adopted,Prefers quiet environment
+1119,3,Deyan,Dog,German Shepherd,9.6,Female,Large,Orange,Protective,Low,Unknown,No,Unknown,No,Yes,2023-12-09,Reserved,Great with families
+1120,3,Stella,Cat,Siamese,1.6,Male,Small,Orange,Calm,High,No,Yes,Healthy,Yes,No,2024-11-23,Reserved,Very social
+1121,3,Ivo,Dog,Golden Retriever,8.8,Female,Large,Gray,Independent,Medium,Unknown,Unknown,Special needs,Yes,No,2025-03-13,Adopted,Shy but loving
+1122,3,Boris,Dog,Husky,13.9,Male,Small,Mixed,Shy,High,Yes,Yes,Special needs,Yes,Yes,2025-07-10,Adopted,Adapts easily
+1123,3,Vasko,Dog,Poodle,9.0,Female,Large,Cream,Calm,High,Yes,Yes,Healthy,Yes,Yes,2023-12-22,Reserved,Adapts easily
+1124,3,Zoya,Dog,Mixed,13.2,Female,Large,White,Friendly,Medium,Yes,Yes,Healthy,No,Yes,2025-05-24,Adopted,Great with families
+1125,3,Geri,Cat,Bengal,14.6,Male,Small,Golden,Shy,Medium,No,Yes,Healthy,Yes,No,2025-08-19,Reserved,Playful and energetic
+1126,3,Reni,Dog,Poodle,8.1,Female,Small,Golden,Protective,Medium,Yes,Yes,Healthy,Yes,Yes,2024-06-04,Reserved,Needs training
+1127,3,Reni,Dog,Rottweiler,0.7,Female,Large,Gray,Independent,High,Yes,Yes,Special needs,Yes,Yes,2024-07-03,Reserved,Very social
+1128,3,Vasko,Cat,Maine Coon,8.2,Male,Small,Orange,Friendly,Medium,Unknown,Unknown,Healthy,Yes,Yes,2025-06-19,Reserved,Needs training
+1129,3,Deyan,Cat,Siamese,4.0,Male,Medium,Brown,Shy,Low,Yes,Unknown,Healthy,No,No,2025-05-31,Reserved,Adapts easily
+1130,4,Deyan,Cat,Siamese,6.1,Male,Small,Brown,Calm,Low,No,Unknown,Healthy,Yes,Yes,2024-10-27,Reserved,Shy but loving
+1131,4,Koko,Dog,Husky,7.3,Male,Large,Mixed,Playful,High,Yes,Unknown,Unknown,No,Yes,2025-03-13,Adopted,Shy but loving
+1132,4,Tosho,Dog,Beagle,7.0,Male,Large,Cream,Calm,High,Unknown,Unknown,Unknown,Yes,Yes,2024-09-30,Reserved,Calm temperament
+1133,4,Koko,Cat,Maine Coon,7.9,Male,Small,Golden,Affectionate,Medium,Unknown,Yes,Special needs,Yes,No,2024-03-31,Reserved,Prefers quiet environment
+1134,4,Ivo,Dog,German Shepherd,6.6,Male,Medium,Mixed,Protective,High,No,No,Unknown,No,No,2025-03-26,Reserved,Shy but loving
+1135,4,Reni,Dog,Cocker Spaniel,8.3,Male,Large,Orange,Calm,High,Unknown,Yes,Unknown,Yes,Yes,2024-03-25,Available,Calm temperament
+1136,4,Boris,Dog,Poodle,11.2,Female,Medium,Black,Friendly,Medium,Yes,Unknown,Unknown,No,Yes,2024-01-23,Adopted,Needs training
+1137,4,Rado,Dog,Rottweiler,8.9,Male,Large,Gray,Shy,Medium,No,Unknown,Healthy,Yes,No,2025-08-07,Adopted,Playful and energetic
+1138,4,Raya,Dog,Husky,12.6,Female,Medium,Black,Friendly,Low,No,No,Healthy,No,No,2023-11-29,Available,Calm temperament
+1139,4,Deyan,Cat,Mixed,6.5,Female,Small,Orange,Independent,Low,Unknown,Unknown,Unknown,No,No,2025-01-07,Adopted,Playful and energetic
+1140,4,Rado,Dog,Poodle,7.7,Female,Small,White,Shy,Low,Unknown,No,Healthy,Yes,Yes,2024-03-26,Available,Prefers quiet environment
+1141,4,Petya,Dog,Bulldog,4.3,Male,Large,White,Independent,Low,Yes,Yes,Healthy,No,Yes,2023-11-14,Available,Shy but loving
+1142,4,Niko,Dog,Husky,0.9,Female,Small,Black,Independent,Low,No,No,Unknown,Yes,No,2024-11-29,Reserved,Great with families
+1143,4,Rado,Cat,British Shorthair,8.4,Male,Small,Black,Independent,Medium,No,No,Unknown,No,Yes,2024-07-15,Available,Calm temperament
+1144,4,Emo,Dog,Labrador Retriever,9.7,Female,Large,Mixed,Friendly,Low,Unknown,Yes,Special needs,Yes,No,2024-10-21,Reserved,Very social
+1145,4,Emo,Dog,Mixed,12.6,Female,Small,White,Affectionate,High,Yes,No,Healthy,Yes,Yes,2024-04-26,Reserved,Calm temperament
+1146,4,Emo,Cat,Maine Coon,8.4,Female,Small,White,Playful,Low,Yes,Yes,Special needs,Yes,Yes,2024-01-20,Available,Very social
+1147,4,Deyan,Cat,Persian,7.9,Male,Small,Brown,Calm,Medium,Unknown,Yes,Unknown,No,No,2025-03-29,Adopted,Great with families
+1148,4,Deyan,Dog,Rottweiler,9.2,Male,Medium,Cream,Affectionate,Low,Yes,Yes,Healthy,No,Yes,2025-08-15,Adopted,Playful and energetic
+1149,4,Emo,Dog,Poodle,14.0,Female,Small,Golden,Independent,Low,No,No,Healthy,No,No,2025-01-22,Reserved,Very social
+1150,4,Ivo,Dog,Cocker Spaniel,13.8,Female,Small,Orange,Calm,Medium,Unknown,No,Special needs,Yes,No,2025-04-09,Available,Prefers quiet environment
+1151,4,Ivo,Dog,Rottweiler,9.8,Female,Medium,Cream,Energetic,Low,Yes,Unknown,Healthy,Yes,Yes,2024-11-03,Adopted,Shy but loving
+1152,4,Tosho,Dog,German Shepherd,11.8,Female,Large,Golden,Shy,Low,Yes,No,Unknown,No,No,2024-10-16,Reserved,Playful and energetic
+1153,4,Rado,Dog,Labrador Retriever,8.0,Female,Large,Golden,Playful,Low,Unknown,No,Special needs,No,No,2024-04-28,Adopted,Very social
+1154,4,Raya,Dog,Golden Retriever,11.7,Male,Large,Black,Friendly,Low,Unknown,No,Special needs,Yes,No,2024-10-01,Adopted,Playful and energetic
+1155,4,Geri,Cat,Ragdoll,9.1,Male,Small,Cream,Affectionate,Medium,Yes,Unknown,Unknown,No,Yes,2023-12-11,Available,Playful and energetic
+1156,4,Mira,Cat,Siamese,6.6,Male,Medium,Gray,Playful,Medium,Unknown,Unknown,Unknown,Yes,No,2024-11-20,Reserved,Playful and energetic
+1157,4,Geri,Dog,Husky,3.8,Female,Large,Black,Protective,Low,Unknown,Yes,Special needs,Yes,Yes,2025-07-27,Reserved,Great with families
+1158,4,Reni,Cat,Persian,1.6,Male,Medium,White,Shy,Medium,Yes,Unknown,Unknown,Yes,Yes,2024-03-16,Adopted,Shy but loving
+1159,4,Vasko,Cat,Mixed,12.7,Male,Medium,Black,Calm,Low,Unknown,Unknown,Healthy,No,Yes,2024-09-03,Available,Playful and energetic
+1160,4,Rado,Cat,Ragdoll,13.3,Male,Medium,Cream,Energetic,Medium,No,Unknown,Special needs,Yes,No,2024-08-05,Reserved,Calm temperament
+1161,4,Zoya,Dog,German Shepherd,7.4,Male,Small,Black,Energetic,Medium,Unknown,Yes,Healthy,Yes,Yes,2025-08-02,Reserved,Playful and energetic
+1162,4,Reni,Cat,Persian,6.5,Female,Medium,Cream,Playful,Low,Yes,No,Healthy,Yes,Yes,2024-10-16,Adopted,Shy but loving
+1163,4,Ivo,Cat,Maine Coon,13.6,Female,Small,White,Affectionate,High,No,No,Healthy,Yes,No,2025-09-02,Adopted,Adapts easily
+1164,4,Rado,Cat,Ragdoll,14.1,Female,Medium,Brown,Shy,Medium,Yes,Yes,Healthy,Yes,Yes,2025-06-02,Available,Shy but loving
+1165,4,Reni,Cat,Persian,2.0,Male,Medium,Cream,Energetic,Medium,Unknown,No,Unknown,Yes,Yes,2024-06-27,Reserved,Playful and energetic
+1166,4,Deyan,Dog,Rottweiler,1.1,Male,Medium,Gray,Calm,Low,Unknown,Yes,Special needs,No,No,2024-03-18,Available,Adapts easily
+1167,4,Mila,Dog,Beagle,5.0,Female,Medium,Mixed,Calm,Low,Unknown,Yes,Healthy,No,Yes,2025-03-08,Reserved,Calm temperament
+1168,4,Misho,Dog,Poodle,14.2,Male,Large,Golden,Friendly,Medium,No,Unknown,Healthy,Yes,Yes,2024-06-25,Adopted,Calm temperament
+1169,4,Koko,Cat,Maine Coon,7.0,Female,Small,Brown,Friendly,High,Unknown,No,Special needs,No,No,2025-01-25,Available,Prefers quiet environment
+1170,4,Deyan,Dog,Golden Retriever,4.9,Female,Medium,White,Affectionate,Low,No,Yes,Unknown,No,No,2025-01-01,Reserved,Needs training
+1171,4,Koko,Cat,Ragdoll,1.7,Female,Medium,White,Friendly,Medium,Yes,Unknown,Unknown,Yes,No,2024-08-02,Available,Needs training
+1172,4,Reni,Dog,German Shepherd,5.8,Female,Small,Golden,Friendly,High,No,Yes,Healthy,No,Yes,2024-12-15,Available,Great with families
+1173,4,Reni,Cat,British Shorthair,14.3,Male,Small,White,Friendly,High,Yes,Unknown,Unknown,Yes,Yes,2024-12-21,Adopted,Calm temperament
+1174,4,Mila,Dog,German Shepherd,14.0,Female,Small,Brown,Protective,Low,No,Yes,Special needs,Yes,Yes,2025-01-24,Reserved,Prefers quiet environment
+1175,4,Misho,Dog,Beagle,4.1,Male,Large,Gray,Affectionate,High,Yes,No,Healthy,No,No,2024-07-30,Available,Shy but loving
+1176,4,Niko,Dog,Poodle,6.9,Female,Medium,Gray,Independent,High,No,No,Special needs,Yes,No,2023-12-27,Reserved,Calm temperament
+1177,4,Geri,Dog,German Shepherd,10.3,Female,Small,Black,Energetic,High,Unknown,Unknown,Special needs,Yes,No,2025-04-24,Adopted,Great with families
+1178,4,Dara,Dog,German Shepherd,7.7,Male,Medium,Gray,Calm,Low,Yes,No,Healthy,No,No,2025-08-09,Available,Playful and energetic
+1179,4,Niko,Dog,Golden Retriever,6.7,Female,Medium,Mixed,Energetic,High,Yes,Unknown,Healthy,No,Yes,2024-10-28,Available,Playful and energetic
+1180,4,Stella,Dog,Beagle,14.1,Female,Small,Brown,Energetic,Low,Unknown,No,Special needs,Yes,No,2025-01-17,Available,Needs training
+1181,4,Ivo,Cat,Bengal,4.9,Male,Small,Black,Independent,Medium,Yes,No,Special needs,No,Yes,2024-01-17,Available,Adapts easily
+1182,4,Lili,Cat,Siamese,4.9,Male,Small,Black,Calm,Low,No,Yes,Unknown,No,No,2025-01-08,Available,Prefers quiet environment
+1183,5,Tosho,Cat,Siamese,14.3,Female,Medium,Cream,Energetic,Low,Unknown,Yes,Healthy,Yes,Yes,2024-09-27,Available,Prefers quiet environment
+1184,5,Kuma,Dog,Bulldog,0.7,Female,Large,Gray,Independent,Low,No,No,Healthy,Yes,No,2024-11-04,Available,Prefers quiet environment
+1185,5,Dara,Cat,Sphynx,13.9,Female,Small,Black,Affectionate,High,No,Yes,Unknown,Yes,No,2024-08-17,Available,Very social
+1186,5,Kuma,Cat,Ragdoll,14.3,Female,Medium,Black,Protective,High,Yes,No,Special needs,Yes,Yes,2024-02-14,Adopted,Prefers quiet environment
+1187,5,Niko,Dog,Mixed,14.4,Female,Medium,White,Independent,High,Unknown,Yes,Healthy,Yes,No,2024-07-29,Adopted,Adapts easily
+1188,5,Tosho,Cat,Sphynx,2.7,Male,Small,Mixed,Playful,Low,Yes,No,Unknown,Yes,No,2025-03-03,Available,Adapts easily
+1189,5,Lili,Dog,Labrador Retriever,2.4,Female,Small,Golden,Protective,Medium,Yes,No,Special needs,Yes,Yes,2025-01-19,Reserved,Adapts easily
+1190,5,Lili,Dog,Labrador Retriever,8.0,Female,Small,Orange,Playful,High,Yes,Yes,Special needs,Yes,Yes,2025-04-22,Adopted,Prefers quiet environment
+1191,5,Mila,Cat,British Shorthair,3.7,Male,Medium,Gray,Playful,High,No,Unknown,Unknown,Yes,No,2023-12-15,Adopted,Needs training
+1192,5,Vasko,Dog,Husky,9.5,Male,Medium,Mixed,Affectionate,Low,Yes,Unknown,Special needs,Yes,Yes,2024-10-18,Reserved,Calm temperament
+1193,5,Petya,Dog,Mixed,12.5,Female,Small,Orange,Shy,Low,Unknown,Yes,Healthy,No,Yes,2025-08-08,Available,Prefers quiet environment
+1194,5,Reni,Dog,Bulldog,3.9,Female,Large,Black,Independent,Medium,Yes,Unknown,Healthy,Yes,No,2025-07-17,Reserved,Shy but loving
+1195,5,Misho,Dog,Beagle,12.6,Male,Small,Black,Energetic,Low,No,Unknown,Special needs,Yes,No,2025-09-06,Reserved,Prefers quiet environment
+1196,5,Pavel,Dog,Husky,13.4,Male,Small,Mixed,Friendly,Medium,Yes,No,Healthy,No,No,2024-04-08,Adopted,Prefers quiet environment
+1197,5,Boris,Cat,Sphynx,12.6,Female,Medium,Golden,Friendly,Low,No,Unknown,Unknown,No,Yes,2025-02-18,Available,Calm temperament
+1198,5,Dara,Dog,Husky,5.0,Male,Medium,Golden,Protective,Medium,No,Unknown,Unknown,Yes,No,2023-10-22,Adopted,Playful and energetic
+1199,5,Misho,Cat,Siamese,3.5,Female,Medium,Orange,Calm,Medium,Unknown,Yes,Healthy,Yes,Yes,2024-02-23,Adopted,Calm temperament
+1200,5,Rado,Cat,Persian,13.8,Female,Small,Orange,Shy,Medium,Unknown,Yes,Healthy,No,Yes,2024-06-07,Reserved,Playful and energetic
+1201,5,Misho,Dog,Husky,1.5,Male,Large,Gray,Independent,Low,No,Yes,Healthy,No,No,2025-09-04,Available,Very social
+1202,5,Toni,Dog,Golden Retriever,13.5,Female,Large,Gray,Shy,Medium,No,Unknown,Unknown,Yes,No,2024-11-28,Reserved,Needs training
+1203,5,Raya,Cat,Sphynx,10.2,Male,Medium,Golden,Calm,High,Yes,No,Special needs,No,No,2024-11-25,Reserved,Prefers quiet environment
+1204,5,Tosho,Cat,Maine Coon,5.3,Male,Small,Brown,Energetic,Low,Yes,Yes,Healthy,Yes,No,2024-12-12,Available,Needs training
+1205,5,Koko,Cat,Siamese,5.0,Male,Medium,White,Affectionate,High,Yes,No,Healthy,No,Yes,2024-04-13,Reserved,Prefers quiet environment
+1206,5,Reni,Cat,Siamese,8.2,Male,Small,Golden,Independent,Medium,Unknown,Unknown,Special needs,No,Yes,2024-07-26,Reserved,Needs training
+1207,5,Reni,Cat,Persian,5.3,Male,Medium,Gray,Shy,High,Unknown,Unknown,Special needs,No,No,2025-09-27,Adopted,Great with families
+1208,5,Geri,Dog,Rottweiler,6.9,Male,Medium,Brown,Playful,Low,Unknown,No,Unknown,Yes,No,2023-11-30,Available,Shy but loving
+1209,5,Deyan,Cat,British Shorthair,2.3,Male,Small,White,Playful,Medium,Unknown,Unknown,Healthy,Yes,No,2025-09-11,Adopted,Great with families
+1210,5,Deyan,Cat,Mixed,9.5,Female,Medium,Golden,Energetic,High,Unknown,No,Healthy,No,No,2024-08-13,Reserved,Great with families
+1211,5,Reni,Dog,Husky,9.3,Male,Medium,Brown,Playful,Medium,No,Unknown,Special needs,No,No,2025-09-19,Available,Great with families
+1212,5,Pavel,Dog,German Shepherd,10.8,Female,Large,White,Protective,High,Unknown,No,Unknown,Yes,No,2024-05-13,Adopted,Needs training
+1213,5,Kuma,Cat,Mixed,7.2,Male,Medium,Gray,Energetic,Low,Unknown,Unknown,Healthy,Yes,Yes,2024-03-06,Adopted,Very social
+1214,5,Vasko,Cat,Mixed,0.8,Male,Medium,Black,Friendly,High,Yes,Yes,Special needs,No,Yes,2025-05-18,Available,Adapts easily
+1215,5,Geri,Cat,Persian,8.1,Female,Medium,Mixed,Calm,Low,Unknown,No,Special needs,Yes,No,2023-11-07,Reserved,Adapts easily
+1216,5,Pavel,Dog,Labrador Retriever,12.2,Male,Large,Mixed,Protective,Medium,Unknown,Yes,Healthy,No,No,2024-09-20,Reserved,Shy but loving
+1217,5,Tosho,Dog,Beagle,0.8,Male,Large,Gray,Protective,High,Yes,Unknown,Unknown,No,No,2023-11-30,Adopted,Calm temperament
+1218,5,Koko,Dog,Cocker Spaniel,8.8,Female,Large,Cream,Affectionate,Low,Yes,No,Healthy,Yes,No,2024-05-22,Adopted,Adapts easily
+1219,5,Tosho,Cat,Siamese,3.0,Male,Medium,Black,Independent,High,No,Unknown,Unknown,No,No,2024-02-07,Adopted,Prefers quiet environment
+1220,5,Ivo,Dog,Beagle,11.6,Female,Large,White,Calm,High,Unknown,Yes,Healthy,No,Yes,2024-05-22,Available,Playful and energetic
+1221,6,Pavel,Cat,Maine Coon,11.4,Male,Medium,Mixed,Energetic,High,No,No,Unknown,Yes,No,2025-08-22,Available,Calm temperament
+1222,6,Lili,Cat,Maine Coon,5.1,Female,Small,Brown,Playful,Medium,Unknown,Unknown,Healthy,Yes,No,2025-02-26,Reserved,Very social
+1223,6,Ivo,Cat,Bengal,7.4,Male,Small,Mixed,Affectionate,Medium,Unknown,Unknown,Special needs,No,No,2023-12-06,Available,Very social
+1224,6,Mira,Dog,Labrador Retriever,12.2,Female,Medium,Mixed,Playful,Medium,No,No,Healthy,No,Yes,2025-03-24,Available,Prefers quiet environment
+1225,6,Dara,Dog,Beagle,1.0,Female,Large,Orange,Independent,Medium,Yes,Unknown,Unknown,Yes,Yes,2025-02-27,Adopted,Needs training
+1226,6,Koko,Dog,Husky,2.7,Female,Small,White,Protective,Low,No,No,Special needs,No,No,2025-08-09,Available,Calm temperament
+1227,6,Vasko,Cat,Sphynx,13.7,Female,Medium,Brown,Playful,High,Yes,No,Special needs,No,No,2025-02-23,Adopted,Calm temperament
+1228,6,Boris,Dog,German Shepherd,4.9,Female,Small,Cream,Independent,Medium,Unknown,Unknown,Unknown,Yes,No,2024-10-13,Adopted,Adapts easily
+1229,6,Mila,Cat,Bengal,2.9,Male,Small,Mixed,Independent,Medium,No,Yes,Special needs,No,Yes,2024-09-24,Available,Shy but loving
+1230,6,Reni,Dog,Husky,6.0,Female,Large,Gray,Affectionate,Low,No,Unknown,Healthy,Yes,No,2024-02-05,Available,Shy but loving
+1231,6,Stella,Dog,Husky,13.1,Female,Small,Cream,Affectionate,High,Yes,Yes,Unknown,No,No,2025-06-07,Available,Needs training
+1232,6,Lili,Cat,Maine Coon,11.0,Male,Small,White,Protective,High,Unknown,No,Unknown,Yes,No,2023-10-29,Available,Needs training
+1233,6,Emo,Dog,Husky,4.7,Male,Small,Orange,Affectionate,Low,Yes,Yes,Special needs,No,No,2024-09-24,Adopted,Great with families
+1234,6,Dara,Cat,Bengal,11.0,Female,Small,Mixed,Protective,Medium,No,Yes,Special needs,No,No,2024-10-04,Adopted,Shy but loving
+1235,6,Toni,Dog,Husky,1.4,Male,Large,Orange,Shy,Low,Unknown,Yes,Unknown,No,Yes,2025-07-17,Available,Great with families
+1236,6,Vasko,Dog,German Shepherd,11.5,Male,Small,Golden,Shy,Low,Unknown,Yes,Healthy,No,No,2025-02-06,Available,Prefers quiet environment
+1237,6,Kuma,Cat,Bengal,10.5,Female,Small,White,Protective,Low,No,Yes,Special needs,Yes,No,2024-02-05,Reserved,Playful and energetic
+1238,6,Mira,Dog,Bulldog,8.5,Female,Large,Black,Affectionate,Low,Unknown,Yes,Unknown,No,Yes,2023-12-06,Reserved,Great with families
+1239,6,Tosho,Cat,Bengal,1.7,Male,Medium,Cream,Friendly,High,Unknown,No,Healthy,Yes,No,2024-01-15,Reserved,Shy but loving
+1240,6,Misho,Dog,Cocker Spaniel,2.9,Female,Small,Cream,Friendly,Low,Unknown,No,Unknown,Yes,Yes,2023-10-09,Adopted,Adapts easily
+1241,6,Koko,Dog,Mixed,7.4,Female,Medium,Mixed,Shy,Low,Yes,No,Unknown,Yes,No,2025-05-05,Available,Playful and energetic
+1242,6,Reni,Dog,Poodle,13.5,Male,Large,Golden,Independent,Low,Unknown,No,Unknown,Yes,Yes,2023-11-28,Adopted,Very social
+1243,6,Zoya,Cat,Sphynx,13.4,Female,Medium,Cream,Independent,High,Unknown,No,Special needs,No,No,2025-10-03,Reserved,Needs training
+1244,6,Rado,Dog,German Shepherd,0.3,Female,Medium,Mixed,Playful,Low,No,Yes,Unknown,No,Yes,2023-12-29,Adopted,Adapts easily
+1245,6,Emo,Cat,Bengal,1.1,Female,Medium,Cream,Shy,High,No,No,Unknown,No,Yes,2023-10-29,Available,Prefers quiet environment
+1246,6,Toni,Dog,Rottweiler,11.7,Female,Small,Cream,Calm,Medium,No,Yes,Unknown,No,Yes,2025-03-31,Available,Playful and energetic
+1247,6,Vasko,Cat,Sphynx,3.6,Female,Medium,Gray,Playful,Medium,Yes,Unknown,Unknown,Yes,No,2024-10-06,Available,Very social
+1248,6,Stella,Dog,Rottweiler,11.5,Male,Medium,White,Calm,Medium,No,Yes,Unknown,Yes,Yes,2025-04-29,Available,Playful and energetic
+1249,6,Tosho,Dog,Beagle,11.9,Male,Large,Cream,Energetic,Low,Unknown,Yes,Unknown,No,No,2024-04-17,Adopted,Shy but loving
+1250,6,Tosho,Dog,Cocker Spaniel,3.1,Female,Medium,White,Shy,Medium,Yes,No,Healthy,No,Yes,2024-03-14,Reserved,Needs training
+1251,6,Lili,Dog,Mixed,6.5,Male,Large,Golden,Playful,Medium,No,Yes,Unknown,Yes,Yes,2025-03-26,Adopted,Great with families
+1252,6,Vasko,Dog,Mixed,5.7,Male,Medium,Black,Independent,Medium,Unknown,No,Healthy,Yes,No,2024-05-02,Adopted,Great with families
+1253,6,Niko,Cat,Ragdoll,2.0,Male,Small,Mixed,Playful,Low,Unknown,Yes,Healthy,Yes,No,2025-05-25,Adopted,Playful and energetic
+1254,6,Boris,Cat,Persian,10.4,Female,Small,Orange,Playful,Low,No,No,Special needs,No,Yes,2023-12-29,Available,Needs training
+1255,6,Mila,Cat,Maine Coon,8.1,Female,Medium,Brown,Independent,Medium,No,Unknown,Healthy,No,No,2025-08-19,Reserved,Shy but loving
+1256,6,Zoya,Cat,Siamese,14.6,Female,Medium,Black,Energetic,High,Unknown,No,Healthy,Yes,Yes,2024-12-27,Reserved,Great with families
+1257,6,Sasho,Dog,Labrador Retriever,3.6,Female,Large,White,Affectionate,Medium,Yes,No,Special needs,Yes,Yes,2025-07-08,Adopted,Very social
+1258,6,Sasho,Cat,Maine Coon,3.1,Male,Small,Golden,Affectionate,Medium,Unknown,Unknown,Healthy,Yes,No,2025-10-01,Available,Calm temperament
+1259,6,Kuma,Dog,German Shepherd,8.7,Male,Medium,Cream,Energetic,Low,Yes,No,Special needs,No,Yes,2024-09-12,Adopted,Prefers quiet environment
+1260,6,Kuma,Dog,Beagle,13.6,Male,Large,Golden,Protective,High,No,Unknown,Special needs,No,No,2025-10-03,Reserved,Prefers quiet environment
+1261,6,Lili,Dog,Beagle,11.3,Female,Large,Black,Affectionate,Medium,Yes,Yes,Special needs,No,Yes,2025-04-10,Reserved,Needs training
+1262,7,Boris,Dog,Poodle,10.6,Male,Small,Gray,Calm,Medium,No,No,Healthy,Yes,No,2024-06-19,Reserved,Playful and energetic
+1263,7,Pavel,Cat,British Shorthair,5.9,Female,Medium,Golden,Energetic,High,Yes,No,Unknown,Yes,Yes,2023-10-28,Available,Calm temperament
+1264,7,Raya,Cat,Sphynx,1.1,Male,Medium,Gray,Playful,Low,No,Unknown,Special needs,No,No,2024-09-21,Available,Great with families
+1265,7,Stella,Dog,German Shepherd,8.8,Male,Small,Orange,Shy,Medium,Yes,Unknown,Special needs,Yes,Yes,2024-06-17,Reserved,Prefers quiet environment
+1266,7,Niko,Dog,Poodle,10.3,Female,Medium,White,Protective,Medium,No,Yes,Healthy,Yes,No,2025-04-24,Reserved,Playful and energetic
+1267,7,Tosho,Dog,Labrador Retriever,10.2,Male,Medium,Cream,Shy,Medium,No,Unknown,Unknown,No,No,2025-08-29,Adopted,Great with families
+1268,7,Geri,Dog,Husky,13.5,Female,Medium,Mixed,Calm,Low,Unknown,No,Unknown,No,No,2025-03-25,Adopted,Shy but loving
+1269,7,Toni,Cat,Bengal,5.0,Female,Small,Cream,Calm,Low,Yes,No,Healthy,No,No,2025-04-06,Available,Needs training
+1270,7,Mila,Cat,Ragdoll,9.2,Female,Medium,Black,Energetic,High,Unknown,No,Special needs,Yes,Yes,2025-08-06,Available,Prefers quiet environment
+1271,7,Stella,Cat,Bengal,13.7,Female,Small,Golden,Friendly,Low,Yes,No,Unknown,Yes,No,2024-08-01,Available,Adapts easily
+1272,7,Koko,Cat,Persian,5.7,Female,Small,Brown,Affectionate,High,No,Unknown,Unknown,No,Yes,2025-08-16,Available,Playful and energetic
+1273,7,Emo,Dog,Cocker Spaniel,3.3,Male,Medium,Brown,Playful,Low,Yes,Unknown,Special needs,No,Yes,2024-09-06,Adopted,Playful and energetic
+1274,7,Lili,Cat,Sphynx,3.7,Female,Medium,Orange,Friendly,High,Unknown,Yes,Unknown,No,No,2025-04-03,Adopted,Needs training
+1275,7,Niko,Cat,Mixed,2.7,Male,Medium,Brown,Independent,Medium,No,No,Healthy,No,No,2023-10-26,Available,Shy but loving
+1276,7,Mira,Dog,Cocker Spaniel,14.7,Female,Large,Cream,Calm,Low,Yes,No,Healthy,No,No,2024-08-02,Available,Great with families
+1277,7,Stella,Dog,Poodle,9.9,Female,Medium,Mixed,Energetic,Low,Yes,Unknown,Special needs,No,Yes,2024-10-08,Available,Shy but loving
+1278,7,Mila,Cat,British Shorthair,8.2,Female,Small,Black,Playful,Low,No,No,Special needs,Yes,No,2024-09-20,Available,Great with families
+1279,7,Raya,Cat,Bengal,6.5,Female,Medium,Orange,Friendly,High,Yes,Yes,Healthy,Yes,Yes,2024-04-20,Available,Calm temperament
+1280,7,Reni,Cat,Ragdoll,1.4,Female,Small,Mixed,Energetic,High,No,Yes,Unknown,No,Yes,2025-07-15,Adopted,Calm temperament
+1281,7,Rado,Dog,Beagle,6.2,Male,Large,Black,Protective,Low,No,No,Unknown,Yes,Yes,2024-01-12,Reserved,Calm temperament
+1282,7,Stella,Cat,Ragdoll,5.8,Male,Small,White,Independent,Medium,Unknown,Yes,Unknown,Yes,Yes,2025-02-14,Reserved,Shy but loving
+1283,7,Mila,Cat,Bengal,10.3,Female,Small,Black,Playful,Medium,Yes,Unknown,Healthy,Yes,No,2024-07-30,Available,Playful and energetic
+1284,7,Koko,Cat,British Shorthair,4.1,Female,Small,Gray,Independent,Low,Yes,Yes,Special needs,Yes,Yes,2024-05-14,Adopted,Playful and energetic
+1285,7,Zoya,Dog,Labrador Retriever,7.4,Female,Medium,Cream,Calm,Medium,No,Unknown,Unknown,Yes,No,2024-03-16,Adopted,Very social
+1286,7,Toni,Dog,Beagle,10.2,Male,Small,White,Affectionate,High,Unknown,Yes,Special needs,Yes,No,2024-10-08,Available,Playful and energetic
+1287,7,Lili,Dog,Labrador Retriever,4.5,Male,Large,Mixed,Energetic,Low,Unknown,Yes,Special needs,Yes,No,2025-03-06,Adopted,Prefers quiet environment
+1288,7,Emo,Dog,Rottweiler,13.4,Male,Large,White,Independent,Low,No,No,Healthy,Yes,Yes,2023-12-26,Adopted,Calm temperament
+1289,7,Deyan,Dog,Cocker Spaniel,3.2,Female,Medium,Black,Playful,Low,Yes,Unknown,Special needs,No,No,2025-08-31,Adopted,Very social
+1290,7,Ivo,Dog,Beagle,14.4,Male,Medium,Gray,Friendly,Medium,No,Yes,Unknown,Yes,No,2023-12-09,Reserved,Adapts easily
+1291,7,Rado,Dog,Husky,1.2,Female,Medium,Gray,Playful,Low,Unknown,No,Special needs,No,Yes,2024-09-23,Available,Prefers quiet environment
+1292,7,Raya,Cat,Sphynx,14.7,Female,Small,White,Calm,Medium,Unknown,Unknown,Special needs,No,Yes,2025-03-08,Adopted,Playful and energetic
+1293,7,Emo,Dog,Mixed,4.8,Female,Medium,Gray,Shy,Low,No,Unknown,Unknown,No,Yes,2024-12-21,Adopted,Playful and energetic
+1294,7,Pavel,Cat,Bengal,12.0,Male,Medium,Cream,Playful,Medium,No,Unknown,Unknown,Yes,Yes,2024-09-06,Adopted,Shy but loving
+1295,7,Raya,Cat,Sphynx,9.9,Male,Small,Mixed,Friendly,Low,No,No,Unknown,No,Yes,2024-10-25,Available,Great with families
+1296,7,Zoya,Cat,Bengal,13.3,Male,Medium,White,Playful,Low,No,No,Special needs,Yes,Yes,2024-05-05,Available,Prefers quiet environment
+1297,7,Petya,Cat,British Shorthair,1.3,Male,Medium,Mixed,Friendly,Low,Yes,Yes,Special needs,No,No,2024-11-17,Reserved,Shy but loving
+1298,7,Zoya,Dog,Husky,10.9,Female,Small,Black,Affectionate,High,No,No,Special needs,Yes,No,2024-05-15,Available,Calm temperament
+1299,7,Mira,Cat,Mixed,3.0,Female,Medium,Golden,Friendly,Low,Yes,No,Unknown,Yes,No,2025-05-23,Reserved,Adapts easily
+1300,7,Petya,Dog,Beagle,3.9,Female,Small,Black,Affectionate,Low,Unknown,Yes,Healthy,Yes,Yes,2025-09-23,Adopted,Adapts easily
+1301,7,Tosho,Cat,Persian,1.4,Male,Small,Cream,Shy,High,Yes,No,Special needs,Yes,No,2025-06-28,Adopted,Calm temperament
+1302,7,Boris,Cat,Ragdoll,5.2,Female,Medium,Brown,Protective,Medium,Unknown,Yes,Special needs,Yes,No,2025-01-22,Available,Playful and energetic
+1303,7,Rado,Cat,Sphynx,1.2,Male,Medium,Orange,Protective,Medium,No,No,Healthy,No,Yes,2024-07-24,Available,Very social
+1304,7,Lili,Cat,Ragdoll,0.5,Male,Medium,Golden,Affectionate,Low,Unknown,Yes,Special needs,Yes,No,2025-09-20,Available,Prefers quiet environment
+1305,7,Dara,Dog,Labrador Retriever,2.3,Female,Large,Cream,Energetic,Medium,No,No,Healthy,Yes,Yes,2025-01-23,Adopted,Shy but loving
+1306,7,Ivo,Dog,Golden Retriever,9.5,Male,Small,Orange,Affectionate,Low,Unknown,Yes,Special needs,No,No,2023-12-22,Available,Needs training
+1307,7,Sasho,Dog,Bulldog,3.4,Male,Large,Golden,Independent,Medium,Yes,Unknown,Unknown,Yes,No,2024-09-23,Available,Playful and energetic
+1308,7,Raya,Dog,Bulldog,5.9,Female,Medium,Black,Independent,Low,Yes,Unknown,Unknown,Yes,Yes,2025-04-13,Available,Shy but loving
+1309,7,Mila,Dog,Poodle,0.4,Male,Medium,Cream,Energetic,Medium,Yes,Yes,Special needs,Yes,Yes,2024-06-04,Reserved,Playful and energetic
+1310,7,Rado,Dog,Poodle,14.8,Female,Large,Brown,Calm,Medium,Unknown,Yes,Unknown,No,Yes,2025-04-20,Adopted,Playful and energetic
+1311,7,Vasko,Cat,Sphynx,14.6,Male,Medium,White,Playful,Medium,Unknown,Yes,Special needs,Yes,No,2023-11-20,Available,Shy but loving
+1312,7,Vasko,Dog,German Shepherd,1.1,Female,Large,Golden,Affectionate,Low,Yes,Unknown,Unknown,Yes,Yes,2024-11-07,Adopted,Great with families
+1313,7,Petya,Dog,Mixed,5.5,Male,Small,Cream,Friendly,High,Yes,Yes,Special needs,Yes,No,2024-05-03,Available,Shy but loving
+1314,7,Stella,Dog,Husky,2.8,Male,Large,Mixed,Energetic,High,Yes,Yes,Healthy,Yes,Yes,2024-05-02,Adopted,Playful and energetic
+1315,8,Reni,Dog,Labrador Retriever,5.5,Male,Small,Gray,Protective,Medium,Yes,Yes,Unknown,Yes,No,2025-05-16,Reserved,Great with families
+1316,8,Tosho,Dog,Bulldog,6.7,Female,Medium,Golden,Shy,High,No,Unknown,Unknown,Yes,No,2025-01-13,Available,Playful and energetic
+1317,8,Dara,Cat,Bengal,7.1,Female,Medium,Cream,Calm,Low,No,No,Healthy,Yes,No,2025-09-25,Adopted,Prefers quiet environment
+1318,8,Pavel,Dog,Golden Retriever,9.4,Male,Medium,Cream,Friendly,High,Unknown,Unknown,Healthy,No,No,2024-12-21,Reserved,Great with families
+1319,8,Stella,Dog,Bulldog,8.8,Male,Large,Brown,Calm,Medium,Unknown,Yes,Special needs,No,Yes,2025-07-17,Available,Shy but loving
+1320,8,Dara,Dog,Mixed,11.6,Male,Large,Gray,Friendly,High,No,Unknown,Special needs,Yes,No,2025-07-19,Available,Needs training
+1321,8,Zoya,Cat,Siamese,10.2,Male,Small,White,Energetic,High,Unknown,Yes,Special needs,No,No,2024-10-16,Available,Adapts easily
+1322,8,Kuma,Dog,Mixed,7.1,Male,Medium,Brown,Protective,Medium,No,Unknown,Special needs,Yes,Yes,2025-07-26,Reserved,Prefers quiet environment
+1323,8,Vasko,Cat,Maine Coon,7.6,Female,Medium,Gray,Calm,Medium,Yes,Yes,Healthy,No,Yes,2025-06-02,Reserved,Very social
+1324,8,Dara,Cat,British Shorthair,11.5,Female,Small,Golden,Friendly,Medium,No,No,Special needs,No,No,2025-02-24,Available,Very social
+1325,8,Koko,Dog,German Shepherd,0.8,Female,Large,Mixed,Protective,Medium,Unknown,Yes,Unknown,Yes,No,2024-07-31,Available,Shy but loving
+1326,8,Lili,Cat,Sphynx,2.4,Female,Small,Brown,Calm,Medium,No,Yes,Special needs,No,No,2024-08-11,Reserved,Playful and energetic
+1327,8,Pavel,Dog,Bulldog,10.4,Female,Medium,Golden,Shy,Medium,No,Yes,Healthy,Yes,Yes,2025-05-20,Available,Great with families
+1328,8,Petya,Dog,Husky,12.4,Male,Large,Cream,Affectionate,High,No,No,Healthy,Yes,Yes,2024-08-28,Adopted,Calm temperament
+1329,8,Niko,Cat,Maine Coon,13.3,Female,Small,Mixed,Calm,Low,Unknown,Yes,Healthy,Yes,Yes,2024-12-11,Reserved,Shy but loving
+1330,8,Mila,Dog,Poodle,9.5,Female,Large,White,Independent,Medium,No,Unknown,Special needs,No,No,2024-01-06,Available,Great with families
+1331,8,Tosho,Dog,Beagle,2.7,Female,Medium,White,Shy,Medium,Yes,No,Healthy,Yes,Yes,2025-02-18,Adopted,Playful and energetic
+1332,8,Dara,Dog,Labrador Retriever,3.1,Male,Medium,Brown,Energetic,Low,No,No,Healthy,Yes,No,2024-12-25,Adopted,Adapts easily
+1333,8,Pavel,Cat,Ragdoll,5.5,Female,Medium,Brown,Affectionate,High,Yes,Unknown,Healthy,No,No,2025-06-26,Available,Needs training
+1334,8,Mira,Dog,Poodle,6.0,Male,Medium,Orange,Friendly,Low,No,No,Special needs,Yes,Yes,2023-12-18,Available,Needs training
+1335,8,Boris,Dog,Mixed,9.4,Male,Small,Mixed,Shy,Low,Unknown,No,Special needs,No,Yes,2023-10-19,Adopted,Very social
+1336,8,Misho,Cat,Maine Coon,11.7,Male,Medium,Brown,Shy,Medium,Yes,Unknown,Special needs,Yes,No,2024-03-05,Available,Needs training
+1337,8,Misho,Cat,Sphynx,5.8,Female,Small,Mixed,Shy,Low,No,No,Unknown,Yes,No,2024-09-21,Adopted,Great with families
+1338,8,Stella,Dog,Rottweiler,11.3,Male,Medium,Brown,Playful,Medium,Yes,Unknown,Unknown,Yes,Yes,2025-09-03,Reserved,Playful and energetic
+1339,8,Reni,Cat,Siamese,9.6,Female,Small,Brown,Independent,Low,No,Unknown,Special needs,No,Yes,2024-03-05,Available,Prefers quiet environment
+1340,8,Rado,Dog,Cocker Spaniel,4.1,Male,Medium,Golden,Calm,Medium,Yes,Yes,Unknown,Yes,No,2024-07-07,Adopted,Playful and energetic
+1341,8,Ivo,Cat,Bengal,5.6,Female,Small,White,Energetic,Medium,Yes,No,Special needs,No,Yes,2025-06-10,Reserved,Calm temperament
+1342,8,Misho,Dog,Poodle,0.4,Male,Small,Brown,Shy,High,No,No,Unknown,Yes,No,2024-01-06,Adopted,Playful and energetic
+1343,8,Pavel,Dog,Cocker Spaniel,14.3,Female,Small,Black,Protective,Low,Unknown,Yes,Special needs,No,Yes,2025-01-11,Available,Prefers quiet environment
+1344,8,Sasho,Cat,Ragdoll,12.1,Male,Medium,Golden,Friendly,Low,No,Unknown,Special needs,Yes,Yes,2025-09-02,Adopted,Prefers quiet environment
+1345,8,Petya,Dog,Bulldog,3.3,Male,Large,Orange,Friendly,Low,Unknown,Yes,Special needs,Yes,Yes,2024-08-28,Available,Shy but loving
+1346,8,Dara,Cat,Maine Coon,14.1,Female,Medium,Orange,Calm,Low,Yes,No,Special needs,No,No,2025-05-08,Adopted,Calm temperament
+1347,8,Deyan,Cat,British Shorthair,4.8,Female,Small,Cream,Playful,Low,Yes,No,Healthy,Yes,No,2025-01-30,Adopted,Adapts easily
+1348,8,Mira,Cat,Sphynx,9.7,Female,Medium,Brown,Affectionate,Low,Yes,No,Unknown,Yes,No,2024-03-02,Available,Adapts easily
+1349,8,Petya,Dog,Golden Retriever,6.4,Male,Large,Gray,Protective,High,No,No,Unknown,No,Yes,2025-08-24,Reserved,Needs training
+1350,8,Raya,Cat,Sphynx,9.0,Female,Medium,Golden,Protective,High,Unknown,Yes,Healthy,Yes,No,2025-05-02,Reserved,Very social
+1351,8,Geri,Dog,Labrador Retriever,5.0,Female,Medium,Orange,Affectionate,High,Unknown,No,Special needs,Yes,No,2025-05-03,Available,Adapts easily
+1352,8,Mila,Cat,Bengal,0.9,Male,Small,Cream,Protective,High,No,No,Special needs,Yes,No,2025-04-02,Adopted,Adapts easily
+1353,8,Rado,Cat,Maine Coon,5.6,Female,Medium,Gray,Calm,Medium,Unknown,No,Special needs,Yes,No,2024-04-10,Available,Calm temperament
+1354,8,Boris,Dog,Bulldog,7.5,Female,Small,Black,Playful,High,Unknown,Yes,Unknown,No,Yes,2023-12-30,Reserved,Very social
+1355,8,Niko,Dog,Cocker Spaniel,9.0,Male,Large,White,Playful,High,No,Yes,Special needs,No,Yes,2025-09-09,Reserved,Great with families
+1356,8,Zoya,Dog,Husky,12.0,Female,Small,Black,Friendly,Medium,Yes,Yes,Healthy,Yes,No,2025-09-14,Reserved,Shy but loving
+1357,8,Reni,Cat,Siamese,2.5,Female,Small,Orange,Shy,High,Unknown,No,Special needs,Yes,Yes,2025-05-21,Adopted,Very social
+1358,8,Koko,Dog,Poodle,3.7,Female,Medium,Brown,Energetic,Low,Yes,No,Healthy,No,Yes,2023-11-25,Adopted,Prefers quiet environment
+1359,9,Rado,Cat,Bengal,14.3,Male,Small,Gray,Calm,Medium,Yes,Unknown,Healthy,No,No,2025-01-30,Reserved,Calm temperament
+1360,9,Rado,Cat,Sphynx,14.3,Male,Small,Black,Affectionate,High,Unknown,Unknown,Special needs,Yes,Yes,2024-10-22,Available,Calm temperament
+1361,9,Pavel,Cat,Sphynx,6.8,Male,Medium,Mixed,Calm,Medium,Yes,Unknown,Special needs,No,No,2024-05-12,Adopted,Shy but loving
+1362,9,Reni,Dog,Rottweiler,0.7,Male,Medium,Golden,Calm,High,Unknown,No,Special needs,Yes,Yes,2025-08-05,Available,Calm temperament
+1363,9,Mira,Dog,German Shepherd,9.3,Male,Large,Black,Protective,Low,Yes,No,Special needs,No,No,2024-02-22,Reserved,Great with families
+1364,9,Deyan,Cat,Sphynx,7.8,Male,Small,Orange,Friendly,High,Yes,Unknown,Healthy,No,Yes,2024-05-08,Available,Prefers quiet environment
+1365,9,Sasho,Cat,Sphynx,10.3,Male,Medium,Black,Playful,Low,Unknown,Unknown,Special needs,No,No,2024-12-29,Adopted,Great with families
+1366,9,Mira,Cat,Persian,13.7,Female,Small,Orange,Playful,Medium,Unknown,Unknown,Unknown,No,Yes,2025-04-16,Adopted,Calm temperament
+1367,9,Misho,Cat,Bengal,14.6,Female,Small,Golden,Shy,Low,Yes,No,Unknown,No,Yes,2024-12-26,Reserved,Prefers quiet environment
+1368,9,Boris,Dog,Husky,9.1,Male,Small,Mixed,Affectionate,Low,No,Unknown,Healthy,No,No,2023-10-22,Available,Playful and energetic
+1369,9,Mira,Cat,Bengal,3.4,Female,Medium,Black,Friendly,Medium,Unknown,Unknown,Healthy,Yes,No,2024-11-18,Available,Adapts easily
+1370,9,Niko,Cat,Persian,5.0,Male,Medium,White,Friendly,Medium,Yes,No,Healthy,Yes,No,2025-03-25,Reserved,Prefers quiet environment
+1371,9,Dara,Cat,Mixed,13.4,Female,Medium,Cream,Independent,High,No,No,Healthy,No,No,2025-01-26,Adopted,Prefers quiet environment
+1372,9,Lili,Cat,British Shorthair,8.4,Female,Small,Gray,Protective,Low,Yes,No,Healthy,No,No,2024-02-03,Reserved,Very social
+1373,9,Toni,Dog,Rottweiler,7.7,Female,Large,Orange,Playful,High,Unknown,Unknown,Healthy,Yes,No,2023-10-24,Available,Shy but loving
+1374,9,Stella,Cat,Maine Coon,8.3,Male,Medium,White,Protective,High,No,Yes,Unknown,No,No,2023-11-05,Adopted,Playful and energetic
+1375,9,Ivo,Cat,Persian,15.0,Male,Medium,Golden,Affectionate,Low,No,Unknown,Unknown,Yes,No,2025-05-07,Adopted,Great with families
+1376,9,Pavel,Dog,German Shepherd,5.2,Male,Large,Brown,Shy,High,Unknown,Yes,Unknown,Yes,Yes,2024-03-17,Adopted,Playful and energetic
+1377,9,Toni,Dog,Poodle,7.3,Female,Small,Brown,Energetic,High,Unknown,No,Healthy,No,Yes,2024-05-02,Available,Calm temperament
+1378,9,Boris,Dog,Husky,10.1,Male,Small,Black,Calm,High,Unknown,Yes,Unknown,No,Yes,2025-01-29,Adopted,Very social
+1379,9,Sasho,Cat,British Shorthair,4.3,Female,Medium,Brown,Shy,Medium,Unknown,Unknown,Special needs,Yes,No,2024-11-09,Adopted,Needs training
+1380,9,Petya,Dog,Husky,12.0,Female,Large,Black,Independent,High,Yes,Yes,Special needs,Yes,No,2024-04-22,Adopted,Playful and energetic
+1381,9,Misho,Dog,Bulldog,8.3,Male,Small,Orange,Shy,High,No,Yes,Unknown,Yes,No,2024-05-22,Adopted,Shy but loving
+1382,9,Emo,Cat,Siamese,11.7,Female,Small,Golden,Calm,High,Yes,Unknown,Special needs,Yes,Yes,2024-12-12,Adopted,Shy but loving
+1383,9,Kuma,Cat,Sphynx,12.5,Female,Medium,Golden,Calm,Medium,No,Yes,Special needs,Yes,No,2025-02-07,Available,Prefers quiet environment
+1384,9,Vasko,Dog,Cocker Spaniel,10.8,Male,Large,Orange,Energetic,High,Unknown,Yes,Special needs,No,Yes,2024-03-08,Reserved,Prefers quiet environment
+1385,9,Rado,Dog,Husky,12.4,Male,Large,Mixed,Protective,Medium,Unknown,Unknown,Unknown,No,No,2024-03-29,Reserved,Calm temperament
+1386,9,Sasho,Dog,Husky,9.4,Female,Medium,Golden,Playful,High,Yes,Yes,Special needs,Yes,Yes,2023-12-02,Available,Calm temperament
+1387,9,Geri,Cat,Ragdoll,5.8,Female,Medium,Golden,Shy,Low,Yes,No,Unknown,Yes,Yes,2025-04-12,Reserved,Great with families
+1388,9,Pavel,Dog,Cocker Spaniel,3.1,Female,Large,Golden,Protective,Medium,Unknown,Unknown,Special needs,Yes,No,2025-03-25,Reserved,Calm temperament
+1389,9,Mira,Cat,Bengal,13.9,Female,Medium,Gray,Independent,Medium,No,Unknown,Special needs,Yes,Yes,2024-08-07,Reserved,Adapts easily
+1390,9,Emo,Dog,Beagle,2.1,Male,Small,Golden,Independent,Low,Yes,Yes,Unknown,Yes,Yes,2025-08-07,Available,Very social
+1391,9,Petya,Dog,Rottweiler,12.4,Male,Small,Mixed,Protective,Medium,No,Unknown,Special needs,Yes,Yes,2024-11-05,Reserved,Very social
+1392,9,Deyan,Dog,Rottweiler,8.9,Female,Large,White,Friendly,High,Yes,Unknown,Special needs,No,Yes,2024-12-11,Adopted,Prefers quiet environment
+1393,9,Koko,Dog,Labrador Retriever,8.5,Female,Small,White,Energetic,Low,Yes,Yes,Healthy,Yes,No,2025-01-16,Adopted,Very social
+1394,9,Koko,Dog,Mixed,3.4,Male,Small,Golden,Independent,Low,Yes,No,Healthy,No,Yes,2024-11-22,Available,Very social
+1395,9,Dara,Dog,German Shepherd,0.4,Male,Small,Mixed,Affectionate,Low,Yes,Unknown,Unknown,Yes,Yes,2025-05-06,Reserved,Very social
+1396,9,Reni,Dog,German Shepherd,14.9,Female,Medium,Orange,Playful,Low,Unknown,No,Healthy,No,Yes,2025-01-28,Adopted,Great with families
+1397,9,Reni,Cat,Sphynx,2.9,Male,Medium,Orange,Friendly,Medium,No,Unknown,Unknown,Yes,Yes,2025-03-09,Reserved,Prefers quiet environment
+1398,9,Emo,Cat,Maine Coon,2.1,Female,Small,Golden,Protective,High,No,Unknown,Healthy,No,Yes,2025-04-28,Reserved,Calm temperament
+1399,9,Mira,Cat,Sphynx,12.4,Female,Small,Mixed,Friendly,Low,No,Yes,Special needs,Yes,Yes,2025-01-08,Adopted,Great with families
+1400,9,Reni,Dog,Golden Retriever,4.4,Female,Small,Mixed,Energetic,Medium,No,No,Unknown,No,Yes,2024-11-07,Adopted,Playful and energetic
+1401,9,Pavel,Dog,German Shepherd,3.2,Female,Medium,Golden,Protective,Low,Yes,No,Special needs,No,Yes,2024-01-20,Reserved,Needs training
+1402,9,Tosho,Dog,Husky,7.8,Male,Large,Cream,Independent,Medium,Yes,Yes,Unknown,No,No,2024-03-06,Reserved,Calm temperament
+1403,9,Sasho,Cat,Maine Coon,10.2,Male,Small,Brown,Friendly,Low,Yes,Yes,Healthy,No,Yes,2025-06-29,Adopted,Playful and energetic
+1404,9,Petya,Cat,British Shorthair,6.1,Male,Medium,Black,Shy,Low,Unknown,No,Healthy,No,No,2025-07-21,Available,Calm temperament
+1405,10,Misho,Dog,Bulldog,9.3,Male,Small,Gray,Independent,Low,No,Unknown,Unknown,Yes,Yes,2025-02-14,Adopted,Calm temperament
+1406,10,Raya,Cat,Sphynx,2.0,Male,Small,White,Energetic,Low,No,Yes,Special needs,No,No,2024-07-14,Available,Adapts easily
+1407,10,Mila,Cat,Ragdoll,7.3,Male,Medium,Golden,Affectionate,Low,Yes,Yes,Healthy,No,No,2025-06-26,Adopted,Prefers quiet environment
+1408,10,Vasko,Dog,Labrador Retriever,12.5,Male,Medium,Cream,Friendly,Low,Yes,No,Unknown,Yes,Yes,2024-12-27,Adopted,Very social
+1409,10,Kuma,Dog,Bulldog,6.1,Male,Small,Gray,Calm,Low,No,Unknown,Special needs,Yes,No,2024-03-02,Available,Great with families
+1410,10,Raya,Cat,Ragdoll,1.6,Male,Medium,Black,Playful,Low,No,Unknown,Unknown,Yes,Yes,2025-09-26,Reserved,Calm temperament
+1411,10,Dara,Dog,Labrador Retriever,0.4,Male,Medium,White,Shy,Low,No,No,Special needs,Yes,Yes,2024-11-04,Adopted,Prefers quiet environment
+1412,10,Ivo,Dog,Rottweiler,11.3,Female,Large,Brown,Affectionate,Medium,Yes,Unknown,Healthy,No,Yes,2024-03-18,Available,Needs training
+1413,10,Tosho,Dog,Husky,11.0,Female,Small,White,Independent,Low,Unknown,No,Healthy,No,No,2025-09-08,Reserved,Calm temperament
+1414,10,Kuma,Dog,Rottweiler,9.0,Male,Small,White,Protective,Medium,Unknown,No,Unknown,Yes,No,2024-11-23,Adopted,Prefers quiet environment
+1415,10,Petya,Dog,Bulldog,3.9,Female,Large,White,Energetic,Medium,No,Yes,Special needs,No,Yes,2023-12-03,Adopted,Great with families
+1416,10,Stella,Cat,Persian,9.0,Female,Small,Mixed,Independent,Low,Yes,Yes,Unknown,No,Yes,2024-09-08,Available,Prefers quiet environment
+1417,10,Boris,Cat,Maine Coon,13.5,Male,Medium,Golden,Protective,High,Yes,Yes,Healthy,Yes,Yes,2024-06-17,Available,Needs training
+1418,10,Deyan,Cat,Maine Coon,10.9,Male,Small,White,Energetic,Low,No,No,Special needs,No,No,2024-04-18,Adopted,Shy but loving
+1419,10,Niko,Dog,Rottweiler,1.1,Male,Medium,Mixed,Shy,Medium,Unknown,Unknown,Special needs,Yes,Yes,2025-06-18,Available,Adapts easily
+1420,10,Rado,Dog,Labrador Retriever,14.1,Male,Large,Mixed,Shy,Low,No,No,Healthy,Yes,No,2023-12-14,Adopted,Needs training
+1421,10,Reni,Cat,Sphynx,10.3,Male,Medium,Gray,Playful,Medium,Unknown,No,Healthy,No,No,2024-10-05,Available,Needs training
+1422,10,Tosho,Dog,Mixed,11.4,Male,Large,Brown,Shy,High,Yes,Yes,Special needs,Yes,No,2024-06-25,Available,Calm temperament
+1423,10,Geri,Dog,Bulldog,4.1,Female,Medium,White,Calm,High,Yes,Unknown,Special needs,No,Yes,2025-04-30,Reserved,Great with families
+1424,10,Sasho,Cat,Mixed,12.9,Female,Medium,White,Independent,Low,No,Unknown,Unknown,Yes,Yes,2025-01-07,Adopted,Very social
+1425,10,Petya,Dog,German Shepherd,11.6,Female,Medium,Cream,Independent,Low,No,Unknown,Unknown,No,No,2024-03-22,Available,Prefers quiet environment
+1426,10,Petya,Cat,Sphynx,6.8,Male,Small,White,Independent,High,Unknown,Yes,Healthy,Yes,Yes,2024-03-12,Reserved,Great with families
+1427,10,Mila,Cat,Maine Coon,13.6,Male,Medium,Orange,Friendly,Medium,Unknown,Yes,Unknown,Yes,No,2023-12-07,Adopted,Calm temperament
+1428,10,Stella,Dog,Mixed,13.2,Male,Large,Golden,Protective,Medium,Yes,Yes,Unknown,Yes,No,2024-04-09,Adopted,Calm temperament
+1429,10,Misho,Cat,Bengal,12.8,Female,Medium,Golden,Calm,High,Yes,No,Healthy,Yes,No,2024-10-04,Adopted,Playful and energetic
+1430,10,Misho,Dog,Beagle,5.6,Female,Small,Orange,Independent,High,Yes,Unknown,Healthy,No,No,2024-12-11,Reserved,Playful and energetic
+1431,10,Rado,Cat,Siamese,7.6,Female,Small,Golden,Independent,Medium,No,No,Special needs,Yes,Yes,2025-03-06,Available,Shy but loving
+1432,10,Mila,Cat,Mixed,13.8,Female,Medium,White,Protective,Medium,Yes,Unknown,Special needs,No,No,2025-01-21,Available,Needs training
+1433,10,Tosho,Cat,British Shorthair,8.3,Female,Medium,Mixed,Protective,Medium,No,No,Special needs,No,Yes,2025-09-16,Available,Shy but loving
+1434,10,Mila,Dog,Rottweiler,2.2,Female,Large,Gray,Affectionate,Low,No,Unknown,Unknown,No,No,2025-04-29,Available,Needs training
+1435,10,Niko,Cat,Maine Coon,10.8,Female,Medium,Brown,Protective,Low,Unknown,No,Healthy,Yes,No,2024-06-16,Adopted,Shy but loving
+1436,10,Dara,Dog,Beagle,0.4,Male,Small,Golden,Shy,Medium,No,Unknown,Unknown,No,No,2024-01-02,Reserved,Prefers quiet environment
+1437,10,Pavel,Dog,Cocker Spaniel,1.6,Male,Large,Mixed,Playful,Low,Unknown,Yes,Healthy,Yes,No,2025-04-10,Reserved,Very social
+1438,10,Dara,Cat,British Shorthair,12.5,Female,Medium,White,Calm,High,Unknown,Yes,Healthy,Yes,Yes,2023-10-19,Adopted,Great with families
+1439,10,Koko,Cat,Ragdoll,4.4,Female,Medium,Gray,Protective,Medium,Unknown,Yes,Healthy,Yes,Yes,2025-09-18,Reserved,Adapts easily
+1440,10,Ivo,Cat,Maine Coon,11.4,Male,Medium,Mixed,Calm,Low,No,Yes,Healthy,No,No,2024-07-25,Adopted,Playful and energetic
+1441,10,Lili,Dog,Beagle,10.2,Female,Medium,Black,Friendly,High,Unknown,Yes,Unknown,No,Yes,2024-02-25,Adopted,Great with families
+1442,10,Sasho,Cat,British Shorthair,3.8,Female,Small,Black,Affectionate,Low,No,Unknown,Special needs,No,No,2024-03-14,Adopted,Calm temperament
+1443,10,Pavel,Dog,German Shepherd,14.8,Male,Large,Cream,Energetic,Medium,Yes,Yes,Unknown,No,No,2025-09-05,Reserved,Needs training
+1444,11,Kuma,Dog,Cocker Spaniel,12.9,Female,Large,Golden,Calm,Medium,Yes,Unknown,Unknown,Yes,No,2025-04-10,Available,Prefers quiet environment
+1445,11,Emo,Cat,Maine Coon,13.6,Male,Medium,Brown,Protective,Medium,Yes,No,Unknown,No,Yes,2025-09-12,Reserved,Needs training
+1446,11,Kuma,Dog,German Shepherd,6.9,Male,Small,Gray,Protective,Low,Unknown,Yes,Unknown,Yes,No,2023-12-06,Reserved,Playful and energetic
+1447,11,Misho,Cat,Maine Coon,12.0,Female,Medium,Golden,Energetic,High,Yes,Unknown,Healthy,No,No,2024-12-24,Available,Needs training
+1448,11,Sasho,Dog,Rottweiler,8.7,Female,Large,Orange,Calm,High,No,Unknown,Healthy,Yes,Yes,2025-04-18,Available,Very social
+1449,11,Kuma,Dog,German Shepherd,14.5,Male,Small,White,Calm,High,Unknown,Unknown,Special needs,Yes,Yes,2023-11-20,Available,Very social
+1450,11,Dara,Cat,Mixed,2.6,Male,Small,Cream,Calm,High,Yes,Unknown,Unknown,Yes,Yes,2023-12-12,Adopted,Very social
+1451,11,Rado,Dog,Cocker Spaniel,0.8,Male,Medium,Mixed,Affectionate,High,No,Unknown,Unknown,No,No,2024-07-03,Reserved,Adapts easily
+1452,11,Tosho,Cat,Persian,11.4,Male,Medium,Brown,Energetic,Low,Yes,No,Healthy,No,No,2025-01-11,Available,Very social
+1453,11,Deyan,Cat,Maine Coon,2.5,Male,Small,Golden,Affectionate,Medium,Unknown,No,Special needs,No,Yes,2025-02-22,Available,Playful and energetic
+1454,11,Koko,Dog,Golden Retriever,14.1,Female,Medium,Brown,Protective,Medium,Unknown,No,Special needs,Yes,Yes,2024-04-03,Available,Very social
+1455,11,Emo,Cat,Bengal,11.1,Female,Small,Orange,Shy,Low,Unknown,Unknown,Unknown,Yes,No,2024-08-02,Available,Needs training
+1456,11,Rado,Dog,Poodle,10.9,Female,Small,Golden,Affectionate,Medium,Unknown,Unknown,Healthy,Yes,Yes,2024-05-22,Reserved,Very social
+1457,11,Petya,Dog,Golden Retriever,1.6,Female,Large,Black,Protective,Medium,Yes,Unknown,Unknown,Yes,Yes,2024-12-06,Adopted,Shy but loving
+1458,11,Mila,Cat,British Shorthair,1.0,Male,Medium,Cream,Friendly,Medium,Unknown,Unknown,Unknown,Yes,Yes,2024-12-14,Adopted,Needs training
+1459,11,Mira,Dog,Bulldog,6.5,Male,Large,Gray,Playful,Medium,Unknown,No,Healthy,No,No,2024-04-12,Available,Playful and energetic
+1460,11,Toni,Dog,Cocker Spaniel,13.7,Female,Medium,White,Affectionate,High,Yes,Unknown,Healthy,No,No,2025-07-15,Adopted,Adapts easily
+1461,11,Lili,Dog,Bulldog,9.9,Male,Large,Black,Independent,Medium,No,No,Special needs,No,Yes,2025-05-19,Reserved,Playful and energetic
+1462,11,Raya,Cat,Persian,13.7,Female,Medium,Brown,Energetic,Low,No,No,Healthy,No,Yes,2024-01-05,Available,Great with families
+1463,11,Kuma,Cat,Maine Coon,3.9,Male,Medium,White,Calm,Low,Unknown,No,Special needs,Yes,Yes,2024-07-26,Available,Great with families
+1464,11,Deyan,Dog,Beagle,6.2,Female,Medium,Black,Protective,High,No,Unknown,Healthy,Yes,No,2024-08-14,Reserved,Shy but loving
+1465,11,Emo,Cat,Sphynx,4.0,Female,Medium,Cream,Playful,Low,Unknown,Unknown,Unknown,No,Yes,2025-01-20,Available,Needs training
+1466,11,Zoya,Cat,Mixed,10.1,Female,Small,Gray,Affectionate,Medium,Unknown,Unknown,Special needs,Yes,No,2024-01-25,Reserved,Very social
+1467,11,Boris,Dog,Poodle,5.4,Male,Medium,Mixed,Friendly,High,Yes,Yes,Healthy,Yes,No,2025-01-06,Available,Needs training
+1468,11,Stella,Dog,Cocker Spaniel,7.9,Male,Small,Mixed,Friendly,Medium,No,No,Unknown,No,Yes,2024-01-29,Available,Great with families
+1469,11,Vasko,Dog,Poodle,14.5,Male,Medium,Black,Shy,High,Yes,No,Healthy,Yes,Yes,2024-01-29,Available,Prefers quiet environment
+1470,11,Reni,Dog,Labrador Retriever,0.5,Male,Large,Black,Affectionate,Medium,No,Unknown,Special needs,No,Yes,2024-01-21,Adopted,Great with families
+1471,11,Toni,Cat,Siamese,11.5,Female,Medium,Mixed,Playful,Medium,Yes,No,Healthy,Yes,Yes,2025-03-28,Reserved,Playful and energetic
+1472,11,Emo,Cat,Bengal,7.2,Female,Small,Gray,Protective,Medium,Yes,Yes,Healthy,No,Yes,2025-01-01,Adopted,Great with families
+1473,11,Pavel,Cat,Sphynx,7.1,Female,Medium,Brown,Affectionate,Medium,Unknown,No,Unknown,Yes,No,2023-12-06,Reserved,Playful and energetic
+1474,11,Mira,Dog,Poodle,3.2,Male,Small,Mixed,Shy,Low,Unknown,Unknown,Special needs,Yes,No,2024-12-19,Available,Playful and energetic
+1475,11,Stella,Dog,Bulldog,6.3,Female,Large,Golden,Affectionate,High,No,No,Special needs,No,Yes,2025-01-20,Available,Playful and energetic
+1476,11,Emo,Cat,Persian,8.8,Female,Medium,Orange,Calm,Medium,Unknown,No,Special needs,No,No,2024-04-29,Reserved,Calm temperament
+1477,11,Dara,Cat,Maine Coon,4.4,Male,Small,Black,Energetic,High,Yes,No,Healthy,No,Yes,2023-11-02,Adopted,Adapts easily
+1478,11,Ivo,Cat,Ragdoll,9.9,Female,Small,White,Affectionate,High,Unknown,Unknown,Healthy,Yes,Yes,2025-05-05,Reserved,Shy but loving
+1479,11,Deyan,Cat,British Shorthair,11.8,Male,Medium,Mixed,Shy,High,Unknown,No,Unknown,Yes,No,2024-04-16,Available,Great with families
+1480,11,Koko,Dog,Labrador Retriever,2.0,Male,Small,Orange,Energetic,Low,Yes,Yes,Unknown,No,No,2024-10-10,Adopted,Great with families
+1481,11,Zoya,Dog,Cocker Spaniel,9.7,Female,Large,Mixed,Affectionate,Low,Yes,Yes,Unknown,No,No,2025-03-04,Available,Shy but loving
+1482,11,Tosho,Cat,British Shorthair,4.6,Male,Medium,Cream,Calm,Medium,No,No,Unknown,Yes,Yes,2024-05-23,Reserved,Shy but loving
+1483,11,Deyan,Cat,Sphynx,4.4,Female,Small,Golden,Calm,High,No,No,Special needs,No,No,2024-03-17,Available,Needs training
+1484,11,Dara,Cat,Mixed,8.8,Female,Medium,Gray,Friendly,Medium,No,No,Special needs,Yes,Yes,2025-06-08,Available,Very social
+1485,11,Ivo,Dog,Poodle,10.1,Female,Small,Brown,Energetic,High,Unknown,Unknown,Healthy,Yes,No,2023-12-09,Reserved,Adapts easily
+1486,11,Stella,Cat,Maine Coon,3.6,Female,Medium,Gray,Independent,Medium,Yes,Yes,Special needs,Yes,Yes,2024-03-31,Reserved,Calm temperament
+1487,11,Sasho,Dog,German Shepherd,3.5,Female,Small,Black,Protective,Medium,No,Yes,Healthy,Yes,No,2025-03-29,Adopted,Adapts easily
+1488,11,Boris,Cat,Mixed,8.4,Female,Medium,Orange,Shy,Low,Yes,Unknown,Healthy,No,No,2024-11-10,Adopted,Playful and energetic
+1489,11,Tosho,Cat,Persian,4.1,Female,Small,Golden,Protective,High,Unknown,Yes,Special needs,Yes,No,2024-09-14,Reserved,Playful and energetic
+1490,11,Zoya,Cat,Sphynx,3.6,Male,Medium,Mixed,Affectionate,Medium,Unknown,Unknown,Healthy,No,Yes,2024-04-20,Adopted,Great with families
+1491,11,Pavel,Cat,Maine Coon,3.7,Female,Small,White,Energetic,Low,No,Unknown,Unknown,Yes,Yes,2024-11-02,Reserved,Playful and energetic
+1492,12,Reni,Dog,Cocker Spaniel,11.6,Male,Medium,Brown,Protective,Medium,Unknown,Yes,Healthy,No,Yes,2024-01-13,Adopted,Very social
+1493,12,Misho,Cat,Sphynx,14.3,Female,Medium,Orange,Friendly,High,No,Yes,Special needs,No,Yes,2024-02-13,Adopted,Calm temperament
+1494,12,Tosho,Dog,Cocker Spaniel,5.4,Male,Small,Cream,Friendly,Medium,Yes,Yes,Healthy,Yes,Yes,2024-09-06,Available,Adapts easily
+1495,12,Zoya,Dog,Bulldog,14.0,Female,Medium,Gray,Independent,Low,Unknown,Unknown,Special needs,No,No,2024-09-21,Reserved,Very social
+1496,12,Tosho,Cat,Ragdoll,13.1,Female,Small,Mixed,Independent,Low,Yes,No,Special needs,No,Yes,2024-01-04,Reserved,Needs training
+1497,12,Emo,Dog,Husky,13.8,Female,Medium,Golden,Shy,High,Unknown,Unknown,Healthy,Yes,No,2024-08-01,Reserved,Adapts easily
+1498,12,Mila,Cat,Siamese,0.4,Male,Medium,Golden,Affectionate,Low,Yes,Yes,Special needs,Yes,No,2024-04-02,Adopted,Calm temperament
+1499,12,Zoya,Dog,Mixed,11.3,Female,Medium,Black,Independent,Medium,No,Unknown,Special needs,Yes,No,2023-11-13,Available,Playful and energetic
+1500,12,Misho,Cat,Maine Coon,0.3,Female,Small,Gray,Friendly,Medium,No,Unknown,Healthy,No,No,2024-02-13,Available,Adapts easily
+1501,12,Vasko,Dog,Beagle,6.6,Male,Medium,Gray,Protective,Low,No,Yes,Healthy,No,Yes,2025-04-22,Available,Calm temperament
+1502,12,Raya,Cat,Siamese,8.7,Female,Small,Brown,Protective,High,Unknown,No,Healthy,Yes,No,2024-08-26,Reserved,Prefers quiet environment
+1503,12,Mira,Cat,Mixed,8.7,Male,Small,Brown,Playful,Medium,No,No,Special needs,No,No,2024-06-06,Adopted,Prefers quiet environment
+1504,12,Boris,Cat,Bengal,13.4,Female,Medium,Gray,Energetic,Low,No,No,Healthy,No,No,2023-11-02,Adopted,Playful and energetic
+1505,12,Zoya,Cat,Sphynx,6.5,Female,Small,Black,Affectionate,Low,Yes,Unknown,Special needs,No,Yes,2024-09-12,Available,Very social
+1506,12,Petya,Dog,Golden Retriever,8.7,Female,Small,Orange,Friendly,Low,Unknown,Unknown,Healthy,No,No,2023-10-11,Available,Adapts easily
+1507,12,Sasho,Dog,Poodle,7.7,Male,Medium,White,Playful,Medium,Unknown,Unknown,Unknown,No,No,2024-03-22,Adopted,Adapts easily
+1508,12,Petya,Dog,Rottweiler,13.6,Female,Medium,Orange,Playful,Low,Yes,Unknown,Special needs,No,No,2024-07-04,Reserved,Great with families
+1509,12,Reni,Dog,Rottweiler,12.8,Male,Large,Golden,Playful,High,Yes,Unknown,Healthy,No,Yes,2025-02-04,Reserved,Calm temperament
+1510,12,Boris,Dog,Beagle,7.8,Male,Medium,Brown,Friendly,Medium,No,Yes,Healthy,No,No,2024-10-12,Available,Shy but loving
+1511,12,Vasko,Dog,Mixed,2.8,Male,Small,Orange,Independent,High,No,Yes,Special needs,No,No,2024-11-15,Available,Prefers quiet environment
+1512,12,Stella,Cat,Persian,9.4,Female,Small,Brown,Playful,Medium,No,Unknown,Unknown,Yes,Yes,2025-02-26,Available,Great with families
+1513,12,Deyan,Cat,Sphynx,7.1,Male,Small,Orange,Energetic,Low,No,Unknown,Healthy,Yes,Yes,2025-08-22,Adopted,Needs training
+1514,12,Stella,Cat,Maine Coon,3.0,Male,Medium,Black,Playful,Medium,Unknown,No,Special needs,No,Yes,2024-12-14,Reserved,Playful and energetic
+1515,12,Emo,Dog,Cocker Spaniel,1.4,Male,Large,Gray,Playful,Low,Unknown,No,Healthy,No,No,2024-03-12,Available,Needs training
+1516,12,Mira,Cat,Mixed,10.9,Male,Medium,Golden,Protective,Low,Unknown,Yes,Unknown,No,No,2024-09-22,Reserved,Great with families
+1517,12,Reni,Dog,Golden Retriever,2.8,Male,Small,Mixed,Friendly,High,Yes,Unknown,Unknown,Yes,Yes,2024-12-16,Reserved,Prefers quiet environment
+1518,12,Ivo,Cat,Bengal,14.4,Female,Medium,Brown,Protective,High,No,Yes,Special needs,No,Yes,2025-05-21,Adopted,Shy but loving
+1519,12,Mila,Dog,Bulldog,12.3,Female,Medium,White,Calm,Medium,Yes,Yes,Healthy,Yes,Yes,2024-07-16,Adopted,Playful and energetic
+1520,12,Rado,Cat,Ragdoll,14.5,Female,Medium,White,Protective,Medium,Yes,Yes,Healthy,No,Yes,2025-01-08,Available,Prefers quiet environment
+1521,12,Reni,Cat,Bengal,2.2,Female,Small,Cream,Calm,Medium,Yes,No,Healthy,Yes,No,2024-03-27,Available,Needs training
+1522,12,Raya,Dog,Labrador Retriever,13.0,Female,Small,Brown,Shy,Medium,Yes,Yes,Unknown,Yes,Yes,2025-04-25,Available,Very social
+1523,12,Lili,Dog,German Shepherd,13.1,Male,Large,Brown,Calm,High,Unknown,Yes,Special needs,Yes,No,2024-11-08,Adopted,Prefers quiet environment
+1524,12,Rado,Cat,Ragdoll,1.9,Male,Medium,White,Protective,Medium,No,No,Unknown,Yes,No,2024-04-29,Available,Prefers quiet environment
+1525,12,Ivo,Cat,Ragdoll,2.4,Male,Medium,Gray,Affectionate,Low,Yes,Unknown,Healthy,No,No,2024-05-04,Available,Shy but loving
+1526,12,Geri,Cat,Mixed,14.2,Male,Medium,Golden,Protective,Medium,No,Yes,Unknown,No,No,2024-06-08,Adopted,Playful and energetic
+1527,12,Ivo,Dog,Poodle,7.6,Male,Medium,Orange,Independent,Low,Unknown,Yes,Special needs,Yes,No,2025-01-02,Available,Calm temperament
+1528,12,Ivo,Dog,Cocker Spaniel,12.0,Female,Large,Cream,Playful,Medium,Yes,Yes,Unknown,No,No,2024-02-17,Adopted,Calm temperament
+1529,12,Kuma,Cat,Sphynx,6.3,Female,Medium,Mixed,Energetic,High,Unknown,Yes,Unknown,No,No,2024-11-02,Adopted,Very social
+1530,12,Reni,Cat,Sphynx,14.4,Female,Small,Cream,Independent,High,No,Yes,Healthy,Yes,No,2024-07-02,Reserved,Needs training
+1531,12,Ivo,Dog,Husky,12.7,Male,Large,Orange,Shy,Medium,Unknown,No,Healthy,No,Yes,2023-12-15,Adopted,Calm temperament
+1532,12,Raya,Cat,Mixed,1.1,Female,Small,Cream,Affectionate,Low,Unknown,No,Special needs,Yes,Yes,2024-10-20,Available,Very social
+1533,12,Reni,Cat,Ragdoll,0.9,Male,Small,Gray,Independent,High,No,Yes,Special needs,No,Yes,2024-08-07,Adopted,Shy but loving
+1534,12,Pavel,Cat,Mixed,1.5,Female,Small,Orange,Protective,Low,No,Yes,Unknown,No,No,2024-03-05,Reserved,Great with families
+1535,12,Geri,Cat,Persian,10.3,Male,Medium,Cream,Affectionate,Low,No,No,Unknown,Yes,No,2024-08-29,Reserved,Shy but loving
+1536,12,Deyan,Cat,Mixed,2.2,Female,Medium,Mixed,Calm,Medium,Yes,Unknown,Special needs,Yes,No,2025-10-01,Adopted,Shy but loving
+1537,12,Stella,Dog,Poodle,8.6,Female,Medium,Cream,Affectionate,Low,No,Yes,Unknown,No,Yes,2025-01-30,Adopted,Calm temperament
+1538,12,Ivo,Cat,Maine Coon,10.4,Female,Medium,Golden,Protective,Low,No,Yes,Healthy,No,Yes,2025-06-10,Available,Playful and energetic
+1539,12,Tosho,Cat,Persian,8.5,Male,Small,Gray,Playful,Low,Unknown,Unknown,Unknown,Yes,No,2025-02-22,Adopted,Prefers quiet environment
+1540,12,Vasko,Dog,Beagle,3.9,Male,Medium,Mixed,Energetic,Low,Yes,Unknown,Unknown,Yes,Yes,2024-06-02,Adopted,Great with families
+1541,12,Geri,Dog,Golden Retriever,3.7,Male,Medium,Golden,Affectionate,Medium,No,Yes,Unknown,Yes,Yes,2025-09-01,Reserved,Needs training
+1542,12,Mira,Cat,Sphynx,8.8,Male,Medium,White,Calm,High,Unknown,Yes,Unknown,No,Yes,2025-07-11,Adopted,Needs training
+1543,12,Petya,Dog,Mixed,14.0,Female,Large,Black,Friendly,Low,Unknown,Yes,Healthy,Yes,Yes,2025-05-12,Available,Needs training
+1544,12,Mila,Cat,British Shorthair,3.6,Male,Medium,White,Friendly,Medium,No,Yes,Healthy,No,No,2025-01-21,Reserved,Needs training
+1545,12,Niko,Dog,Beagle,14.8,Male,Medium,Black,Shy,High,Unknown,Unknown,Unknown,No,Yes,2024-03-24,Adopted,Shy but loving
+1546,12,Petya,Dog,German Shepherd,2.7,Male,Large,Orange,Friendly,Low,Unknown,Yes,Healthy,Yes,Yes,2024-05-07,Adopted,Adapts easily
+1547,12,Kuma,Cat,Siamese,10.1,Female,Medium,Black,Shy,Low,Yes,Unknown,Healthy,Yes,Yes,2024-07-30,Adopted,Shy but loving
+1548,13,Emo,Cat,Siamese,14.5,Female,Small,Mixed,Friendly,High,No,Yes,Healthy,Yes,No,2025-03-18,Reserved,Shy but loving
+1549,13,Toni,Cat,Bengal,4.2,Male,Small,Cream,Independent,Low,Yes,No,Special needs,No,Yes,2024-08-23,Reserved,Playful and energetic
+1550,13,Tosho,Dog,Rottweiler,8.8,Male,Large,Golden,Calm,Medium,Unknown,Unknown,Healthy,No,Yes,2025-08-06,Reserved,Prefers quiet environment
+1551,13,Vasko,Dog,Mixed,13.8,Female,Small,Gray,Shy,Medium,No,Unknown,Special needs,No,Yes,2025-07-05,Adopted,Playful and energetic
+1552,13,Tosho,Dog,Golden Retriever,11.9,Male,Medium,Brown,Energetic,Low,No,Unknown,Unknown,Yes,No,2025-02-05,Reserved,Needs training
+1553,13,Dara,Cat,Sphynx,5.3,Male,Medium,Mixed,Affectionate,Low,No,Unknown,Unknown,No,Yes,2023-11-14,Reserved,Needs training
+1554,13,Sasho,Cat,Mixed,10.4,Female,Small,White,Shy,Low,Unknown,Yes,Special needs,No,No,2025-03-09,Adopted,Great with families
+1555,13,Reni,Dog,Husky,4.1,Male,Small,Orange,Independent,High,Yes,Yes,Healthy,No,Yes,2025-06-18,Available,Playful and energetic
+1556,13,Pavel,Cat,British Shorthair,5.0,Male,Medium,Black,Shy,Low,No,Yes,Unknown,No,No,2024-02-04,Reserved,Very social
+1557,13,Emo,Dog,Poodle,0.5,Female,Large,Black,Playful,Low,Yes,Yes,Special needs,Yes,No,2024-05-04,Reserved,Great with families
+1558,13,Lili,Cat,Bengal,7.7,Female,Small,Black,Friendly,Medium,Unknown,No,Healthy,Yes,Yes,2024-09-11,Adopted,Needs training
+1559,13,Misho,Dog,Cocker Spaniel,13.4,Male,Small,White,Friendly,Medium,No,Unknown,Unknown,No,No,2025-08-28,Adopted,Shy but loving
+1560,13,Stella,Dog,Cocker Spaniel,7.1,Male,Large,Black,Calm,Low,No,Unknown,Special needs,No,Yes,2024-07-14,Adopted,Playful and energetic
+1561,13,Toni,Cat,Sphynx,13.1,Female,Small,Golden,Shy,Medium,No,Unknown,Healthy,No,Yes,2024-12-28,Adopted,Playful and energetic
+1562,13,Niko,Dog,Cocker Spaniel,11.5,Male,Large,Golden,Shy,Low,Unknown,No,Unknown,Yes,No,2025-05-04,Reserved,Great with families
+1563,13,Zoya,Dog,Rottweiler,10.6,Male,Large,Golden,Friendly,Medium,Yes,Yes,Special needs,No,Yes,2025-07-06,Available,Playful and energetic
+1564,13,Vasko,Cat,British Shorthair,7.2,Male,Small,Orange,Energetic,Low,No,Yes,Healthy,Yes,No,2025-03-22,Reserved,Calm temperament
+1565,13,Stella,Dog,Rottweiler,7.4,Male,Medium,White,Playful,Medium,No,Yes,Unknown,No,No,2024-10-15,Available,Adapts easily
+1566,13,Niko,Cat,Maine Coon,6.1,Female,Medium,Gray,Playful,Low,No,Yes,Special needs,No,Yes,2025-01-23,Reserved,Playful and energetic
+1567,13,Sasho,Dog,Cocker Spaniel,8.1,Female,Large,White,Protective,Low,No,Yes,Healthy,No,Yes,2025-03-03,Adopted,Prefers quiet environment
+1568,13,Geri,Cat,Persian,8.8,Male,Small,White,Energetic,Low,Unknown,Yes,Healthy,Yes,Yes,2023-11-20,Available,Prefers quiet environment
+1569,13,Petya,Cat,Bengal,9.0,Female,Medium,Golden,Shy,Medium,Yes,Unknown,Special needs,Yes,Yes,2024-12-30,Reserved,Needs training
+1570,13,Emo,Cat,Sphynx,2.8,Female,Small,White,Independent,Medium,No,Unknown,Healthy,Yes,No,2024-01-07,Adopted,Shy but loving
+1571,13,Mila,Cat,Siamese,6.9,Male,Medium,Cream,Playful,Low,Unknown,No,Special needs,No,Yes,2024-11-08,Adopted,Very social
+1572,13,Ivo,Dog,Husky,6.9,Female,Large,Brown,Protective,High,Unknown,Unknown,Special needs,Yes,No,2024-08-29,Reserved,Very social
+1573,13,Deyan,Dog,German Shepherd,4.1,Female,Large,White,Protective,Low,Unknown,Unknown,Healthy,Yes,Yes,2024-01-23,Available,Very social
+1574,13,Petya,Cat,Mixed,2.3,Male,Medium,Orange,Energetic,High,No,Unknown,Unknown,No,Yes,2024-05-12,Adopted,Calm temperament
+1575,13,Niko,Dog,Beagle,5.8,Female,Small,Golden,Protective,Medium,Yes,Unknown,Unknown,No,Yes,2024-06-15,Adopted,Very social
+1576,13,Mila,Dog,Golden Retriever,2.0,Female,Large,Gray,Shy,Medium,Yes,Yes,Special needs,No,No,2024-05-09,Adopted,Playful and energetic
+1577,13,Stella,Dog,German Shepherd,14.3,Female,Medium,Brown,Affectionate,Low,Unknown,Yes,Special needs,No,No,2024-05-28,Available,Shy but loving
+1578,13,Boris,Dog,Golden Retriever,11.8,Male,Small,White,Playful,Medium,Unknown,Unknown,Healthy,Yes,Yes,2025-07-06,Adopted,Adapts easily
+1579,13,Ivo,Dog,Cocker Spaniel,13.6,Female,Medium,Cream,Independent,Medium,Unknown,Yes,Special needs,Yes,No,2024-08-24,Available,Shy but loving
+1580,13,Mila,Dog,Bulldog,9.8,Female,Small,Orange,Independent,Medium,Yes,Yes,Special needs,Yes,No,2024-04-03,Adopted,Calm temperament
+1581,13,Toni,Cat,British Shorthair,12.4,Female,Small,Golden,Affectionate,Medium,Unknown,No,Special needs,Yes,No,2024-05-06,Adopted,Adapts easily
+1582,13,Lili,Dog,Poodle,3.4,Female,Large,Brown,Shy,High,Yes,No,Healthy,No,Yes,2025-04-13,Available,Great with families
+1583,13,Kuma,Cat,British Shorthair,0.9,Female,Small,Black,Protective,Low,No,Unknown,Special needs,No,No,2025-08-07,Available,Adapts easily
+1584,13,Geri,Cat,Maine Coon,6.5,Female,Medium,Gray,Affectionate,Medium,Yes,Yes,Special needs,Yes,No,2025-08-17,Available,Shy but loving
+1585,13,Misho,Dog,Labrador Retriever,10.4,Male,Large,Golden,Shy,Low,Unknown,Unknown,Unknown,No,No,2024-10-21,Available,Prefers quiet environment
+1586,13,Raya,Dog,Mixed,7.9,Female,Small,Mixed,Energetic,Medium,Unknown,Yes,Special needs,Yes,No,2025-06-22,Adopted,Adapts easily
+1587,13,Sasho,Cat,Maine Coon,14.6,Male,Medium,White,Friendly,Medium,No,Yes,Special needs,No,Yes,2025-04-07,Available,Needs training
+1588,13,Mila,Cat,British Shorthair,6.7,Female,Small,Black,Shy,High,Unknown,Unknown,Unknown,No,No,2024-09-25,Reserved,Playful and energetic
+1589,13,Raya,Dog,Golden Retriever,12.8,Male,Small,Gray,Protective,Low,Yes,No,Healthy,Yes,Yes,2024-07-19,Reserved,Calm temperament
+1590,13,Emo,Dog,Rottweiler,10.4,Male,Large,Gray,Independent,Low,No,No,Unknown,Yes,Yes,2024-09-06,Adopted,Needs training
+1591,13,Lili,Cat,Ragdoll,0.6,Male,Small,Gray,Shy,Medium,No,No,Special needs,Yes,No,2025-05-28,Available,Adapts easily
+1592,13,Koko,Cat,Sphynx,13.4,Female,Medium,Black,Shy,Medium,Yes,Yes,Healthy,Yes,No,2024-06-21,Adopted,Calm temperament
+1593,13,Reni,Cat,British Shorthair,9.4,Female,Small,Brown,Shy,Medium,Unknown,Yes,Unknown,Yes,Yes,2024-01-01,Adopted,Great with families
+1594,13,Vasko,Cat,Maine Coon,8.8,Female,Small,Black,Playful,Low,Yes,No,Special needs,Yes,Yes,2025-02-25,Adopted,Needs training
+1595,13,Kuma,Cat,Maine Coon,2.6,Female,Small,Gray,Protective,Medium,Unknown,No,Healthy,No,No,2025-04-09,Available,Needs training
+1596,13,Rado,Cat,Maine Coon,1.3,Male,Medium,Brown,Independent,High,No,Unknown,Special needs,No,No,2025-05-20,Available,Needs training
+1597,13,Raya,Cat,Mixed,13.3,Male,Small,Cream,Friendly,Low,No,Yes,Healthy,Yes,Yes,2025-04-18,Adopted,Very social
+1598,13,Niko,Cat,Maine Coon,7.1,Male,Medium,Golden,Shy,High,Unknown,No,Special needs,No,No,2024-01-01,Reserved,Needs training
+1599,13,Pavel,Dog,Beagle,2.9,Female,Large,Black,Energetic,Low,Unknown,Yes,Special needs,Yes,Yes,2024-01-05,Available,Prefers quiet environment
+1600,13,Mira,Dog,Cocker Spaniel,9.0,Female,Large,Cream,Friendly,Low,Yes,Unknown,Unknown,No,Yes,2025-03-06,Available,Calm temperament
+1601,14,Toni,Dog,Golden Retriever,3.6,Female,Large,Orange,Energetic,Low,Yes,No,Healthy,No,No,2025-01-31,Available,Calm temperament
+1602,14,Misho,Dog,Poodle,6.1,Male,Medium,Orange,Energetic,High,Unknown,No,Unknown,Yes,No,2024-08-16,Reserved,Adapts easily
+1603,14,Niko,Cat,Persian,0.9,Male,Medium,Orange,Shy,High,Yes,Unknown,Unknown,No,No,2025-06-09,Adopted,Shy but loving
+1604,14,Mira,Dog,Mixed,8.9,Female,Small,Orange,Calm,High,No,Yes,Special needs,Yes,Yes,2023-10-26,Reserved,Great with families
+1605,14,Stella,Cat,Mixed,6.8,Male,Medium,Golden,Calm,Low,Yes,No,Unknown,No,No,2024-08-05,Adopted,Adapts easily
+1606,14,Lili,Cat,Bengal,5.7,Male,Medium,Gray,Energetic,Low,Yes,No,Special needs,Yes,No,2024-04-01,Adopted,Great with families
+1607,14,Tosho,Dog,Rottweiler,13.6,Male,Small,Orange,Energetic,Medium,Unknown,Yes,Healthy,Yes,Yes,2024-10-30,Reserved,Prefers quiet environment
+1608,14,Toni,Cat,Siamese,6.3,Female,Small,White,Friendly,Low,Unknown,No,Unknown,No,Yes,2024-07-01,Reserved,Great with families
+1609,14,Kuma,Dog,Bulldog,14.3,Female,Medium,White,Independent,Medium,Unknown,No,Healthy,Yes,Yes,2024-05-30,Available,Calm temperament
+1610,14,Niko,Cat,Sphynx,14.3,Female,Small,Cream,Shy,Low,Yes,Yes,Special needs,Yes,No,2025-03-17,Reserved,Needs training
+1611,14,Raya,Cat,Bengal,6.7,Male,Medium,Cream,Shy,High,No,No,Healthy,No,Yes,2024-06-29,Reserved,Adapts easily
+1612,14,Tosho,Cat,British Shorthair,8.3,Male,Medium,Golden,Affectionate,Low,No,No,Healthy,No,Yes,2025-03-10,Reserved,Playful and energetic
+1613,14,Geri,Dog,Rottweiler,11.5,Male,Large,Gray,Friendly,Medium,Yes,Unknown,Unknown,No,No,2024-06-22,Reserved,Very social
+1614,14,Vasko,Dog,Poodle,5.2,Male,Large,Cream,Protective,Low,Yes,Unknown,Healthy,No,No,2025-09-17,Adopted,Prefers quiet environment
+1615,14,Sasho,Cat,Persian,6.6,Male,Small,Black,Affectionate,Medium,Yes,Unknown,Unknown,No,No,2025-02-26,Adopted,Great with families
+1616,14,Sasho,Dog,Beagle,11.4,Female,Large,Brown,Friendly,Low,Unknown,Unknown,Unknown,Yes,No,2025-02-11,Reserved,Playful and energetic
+1617,14,Sasho,Dog,Rottweiler,14.1,Male,Large,White,Calm,Low,Unknown,No,Healthy,No,Yes,2025-09-11,Available,Calm temperament
+1618,14,Niko,Dog,Husky,10.6,Male,Medium,Golden,Affectionate,Medium,Yes,Yes,Special needs,No,No,2024-06-17,Available,Calm temperament
+1619,14,Sasho,Dog,Bulldog,8.5,Male,Large,White,Shy,Low,No,Yes,Healthy,Yes,Yes,2024-08-25,Reserved,Calm temperament
+1620,14,Stella,Cat,Sphynx,3.8,Female,Small,Golden,Friendly,High,Unknown,Unknown,Healthy,Yes,Yes,2024-11-01,Adopted,Adapts easily
+1621,14,Zoya,Dog,Labrador Retriever,12.5,Female,Small,Golden,Protective,Low,No,No,Special needs,No,Yes,2024-12-31,Adopted,Very social
+1622,14,Zoya,Dog,Husky,2.0,Male,Large,Orange,Protective,High,Unknown,No,Healthy,Yes,No,2024-02-13,Adopted,Great with families
+1623,14,Emo,Cat,Siamese,12.4,Male,Medium,Golden,Calm,Low,Unknown,Yes,Special needs,No,Yes,2024-02-22,Adopted,Needs training
+1624,14,Kuma,Cat,Sphynx,11.8,Female,Medium,Orange,Energetic,Medium,Yes,No,Special needs,No,No,2024-04-29,Reserved,Prefers quiet environment
+1625,14,Koko,Cat,Ragdoll,0.2,Male,Small,Mixed,Affectionate,High,Unknown,Yes,Special needs,No,No,2025-08-20,Reserved,Adapts easily
+1626,14,Kuma,Dog,Poodle,14.3,Female,Large,Golden,Calm,High,Yes,No,Healthy,Yes,Yes,2024-03-24,Available,Playful and energetic
+1627,14,Rado,Dog,German Shepherd,1.8,Male,Medium,Orange,Protective,Medium,No,Unknown,Healthy,Yes,No,2023-11-28,Reserved,Adapts easily
+1628,14,Niko,Dog,Labrador Retriever,14.6,Female,Large,Orange,Shy,High,Unknown,Yes,Special needs,No,Yes,2024-07-17,Available,Adapts easily
+1629,14,Emo,Dog,Labrador Retriever,4.2,Female,Small,White,Independent,High,Unknown,Yes,Special needs,No,No,2024-10-13,Reserved,Great with families
+1630,14,Tosho,Dog,Rottweiler,10.6,Male,Small,Mixed,Energetic,Low,Yes,Unknown,Special needs,Yes,Yes,2024-08-14,Adopted,Calm temperament
+1631,14,Boris,Cat,Persian,7.2,Male,Small,Brown,Energetic,Medium,Unknown,Yes,Special needs,Yes,Yes,2024-08-09,Available,Adapts easily
+1632,14,Geri,Dog,Husky,5.5,Female,Small,Black,Playful,Medium,Unknown,Unknown,Special needs,Yes,No,2024-01-30,Adopted,Shy but loving
+1633,14,Petya,Cat,Bengal,5.4,Female,Small,Orange,Affectionate,High,Yes,No,Special needs,No,Yes,2025-01-31,Available,Prefers quiet environment
+1634,14,Kuma,Cat,Maine Coon,14.4,Female,Small,Mixed,Protective,High,Unknown,Yes,Unknown,Yes,Yes,2024-09-17,Reserved,Shy but loving
+1635,14,Niko,Cat,Siamese,2.1,Female,Medium,Brown,Calm,High,Unknown,Yes,Unknown,Yes,No,2024-12-25,Reserved,Calm temperament
+1636,14,Rado,Dog,Bulldog,6.5,Male,Small,Mixed,Energetic,High,Unknown,No,Healthy,No,No,2024-10-16,Available,Adapts easily
+1637,14,Deyan,Cat,Sphynx,7.4,Female,Medium,Brown,Independent,High,Yes,No,Unknown,Yes,Yes,2025-08-27,Adopted,Prefers quiet environment
+1638,14,Mila,Cat,Sphynx,9.6,Female,Medium,White,Independent,Low,No,Yes,Special needs,Yes,Yes,2025-03-09,Adopted,Shy but loving
+1639,14,Mira,Dog,German Shepherd,2.1,Female,Medium,Cream,Independent,High,Yes,Yes,Healthy,No,Yes,2024-09-16,Adopted,Calm temperament
+1640,14,Raya,Cat,Siamese,9.4,Male,Medium,Black,Protective,Medium,Yes,Unknown,Healthy,Yes,No,2024-09-05,Available,Playful and energetic
+1641,14,Reni,Cat,Bengal,9.6,Male,Small,White,Energetic,Medium,Unknown,No,Unknown,No,Yes,2024-06-22,Reserved,Prefers quiet environment
+1642,14,Zoya,Cat,Siamese,11.3,Female,Medium,Orange,Protective,High,Yes,Yes,Special needs,Yes,Yes,2025-02-11,Reserved,Very social
+1643,14,Zoya,Cat,Maine Coon,9.3,Male,Medium,White,Protective,Low,Unknown,No,Unknown,Yes,No,2024-11-18,Adopted,Needs training
+1644,15,Niko,Dog,Beagle,10.0,Male,Small,Orange,Energetic,Low,Yes,No,Unknown,No,Yes,2024-12-10,Adopted,Prefers quiet environment
+1645,15,Emo,Dog,Beagle,11.0,Female,Medium,Black,Calm,Low,Yes,No,Unknown,No,No,2025-01-01,Adopted,Adapts easily
+1646,15,Mila,Dog,Husky,10.3,Male,Large,White,Friendly,Low,No,No,Healthy,Yes,Yes,2025-06-11,Available,Adapts easily
+1647,15,Vasko,Dog,Husky,13.4,Female,Small,Brown,Calm,Low,Unknown,Unknown,Unknown,Yes,No,2024-08-15,Available,Prefers quiet environment
+1648,15,Reni,Dog,German Shepherd,8.0,Male,Large,Cream,Calm,High,No,No,Healthy,Yes,Yes,2025-07-26,Available,Shy but loving
+1649,15,Kuma,Dog,Mixed,11.5,Female,Small,Mixed,Independent,Low,Yes,Yes,Unknown,Yes,No,2024-05-27,Adopted,Playful and energetic
+1650,15,Pavel,Dog,German Shepherd,7.3,Female,Large,Mixed,Shy,Low,No,Yes,Healthy,Yes,No,2024-11-10,Available,Very social
+1651,15,Boris,Cat,Sphynx,8.2,Male,Medium,Brown,Friendly,Low,No,Yes,Unknown,No,Yes,2024-02-20,Reserved,Very social
+1652,15,Petya,Dog,Cocker Spaniel,11.9,Female,Large,Gray,Protective,High,Unknown,Yes,Special needs,Yes,Yes,2025-03-26,Reserved,Needs training
+1653,15,Deyan,Dog,Rottweiler,3.7,Male,Large,Black,Playful,Medium,No,Unknown,Special needs,Yes,Yes,2025-05-08,Adopted,Adapts easily
+1654,15,Mila,Dog,Rottweiler,7.7,Male,Medium,Brown,Friendly,Low,Unknown,Yes,Special needs,No,Yes,2024-11-09,Adopted,Very social
+1655,15,Vasko,Dog,German Shepherd,12.0,Male,Large,White,Calm,High,Unknown,No,Unknown,No,No,2023-10-21,Available,Shy but loving
+1656,15,Dara,Dog,Mixed,1.4,Female,Medium,White,Protective,High,Unknown,Unknown,Unknown,No,No,2025-02-07,Adopted,Calm temperament
+1657,15,Toni,Cat,Maine Coon,5.0,Female,Small,Orange,Protective,High,Unknown,Unknown,Unknown,No,Yes,2024-01-14,Reserved,Shy but loving
+1658,15,Raya,Dog,Husky,2.4,Male,Medium,Golden,Shy,Medium,Yes,Unknown,Healthy,No,Yes,2024-07-24,Available,Very social
+1659,15,Deyan,Dog,German Shepherd,11.8,Male,Large,Black,Shy,Low,No,Yes,Unknown,Yes,Yes,2024-12-14,Reserved,Calm temperament
+1660,15,Toni,Cat,Sphynx,8.2,Male,Medium,Cream,Energetic,Medium,No,No,Healthy,Yes,No,2024-08-06,Available,Needs training
+1661,15,Rado,Dog,Mixed,13.2,Female,Large,Golden,Calm,Low,Yes,No,Special needs,Yes,No,2023-11-05,Reserved,Very social
+1662,15,Vasko,Dog,Husky,12.2,Female,Small,Black,Energetic,High,No,Yes,Unknown,No,No,2023-11-05,Available,Great with families
+1663,15,Dara,Cat,Sphynx,12.4,Male,Small,Mixed,Playful,Low,Yes,Unknown,Unknown,No,Yes,2023-11-17,Reserved,Very social
+1664,15,Misho,Dog,Golden Retriever,7.9,Female,Large,Golden,Protective,High,Yes,No,Special needs,No,Yes,2024-07-09,Available,Playful and energetic
+1665,15,Niko,Dog,Poodle,6.3,Male,Small,Mixed,Independent,Medium,No,No,Unknown,Yes,No,2025-06-29,Adopted,Playful and energetic
+1666,15,Rado,Cat,Ragdoll,11.9,Male,Medium,Golden,Energetic,High,Unknown,Yes,Special needs,Yes,No,2025-05-09,Available,Playful and energetic
+1667,15,Misho,Cat,Maine Coon,11.2,Female,Small,White,Playful,Medium,Unknown,Yes,Unknown,Yes,Yes,2025-05-13,Available,Shy but loving
+1668,15,Lili,Cat,British Shorthair,10.1,Female,Medium,White,Energetic,Medium,Yes,Yes,Special needs,No,No,2025-08-27,Adopted,Prefers quiet environment
+1669,15,Toni,Cat,Sphynx,13.8,Female,Small,Mixed,Affectionate,High,Unknown,No,Unknown,No,Yes,2023-12-28,Available,Great with families
+1670,15,Stella,Dog,Golden Retriever,13.7,Female,Medium,Cream,Affectionate,Medium,Unknown,No,Special needs,Yes,Yes,2024-06-30,Reserved,Prefers quiet environment
+1671,15,Toni,Dog,Labrador Retriever,1.7,Female,Medium,Brown,Protective,Medium,Yes,Unknown,Unknown,No,Yes,2024-01-07,Available,Needs training
+1672,15,Kuma,Dog,Beagle,1.4,Male,Medium,Orange,Playful,Low,Yes,No,Healthy,No,No,2023-10-16,Reserved,Shy but loving
+1673,15,Vasko,Dog,German Shepherd,12.3,Male,Medium,Cream,Affectionate,Low,No,No,Healthy,Yes,Yes,2025-01-12,Adopted,Needs training
+1674,15,Koko,Dog,Bulldog,6.6,Male,Medium,Black,Shy,Medium,No,No,Special needs,Yes,No,2025-05-01,Adopted,Playful and energetic
+1675,15,Misho,Dog,Mixed,6.0,Male,Large,Gray,Shy,Low,Unknown,Unknown,Unknown,No,Yes,2025-05-31,Available,Shy but loving
+1676,15,Petya,Cat,Ragdoll,12.1,Male,Small,Black,Calm,Low,Unknown,No,Healthy,Yes,Yes,2024-04-11,Reserved,Calm temperament
+1677,15,Deyan,Dog,Poodle,2.7,Male,Medium,Orange,Independent,Low,Yes,Unknown,Special needs,No,No,2025-02-06,Reserved,Calm temperament
+1678,15,Rado,Dog,Mixed,6.6,Male,Large,Black,Independent,Medium,No,No,Special needs,No,Yes,2024-12-19,Reserved,Great with families
+1679,15,Emo,Cat,Siamese,11.7,Female,Medium,Cream,Energetic,High,No,Yes,Unknown,No,No,2024-03-22,Adopted,Very social
+1680,15,Toni,Dog,Husky,0.4,Male,Medium,Gray,Independent,High,No,Yes,Healthy,No,No,2025-09-29,Available,Needs training
+1681,15,Petya,Dog,Beagle,8.4,Female,Small,Brown,Calm,Low,No,Unknown,Healthy,Yes,Yes,2024-11-12,Reserved,Needs training
+1682,15,Kuma,Dog,Cocker Spaniel,9.7,Male,Medium,Gray,Friendly,Low,Yes,Unknown,Healthy,No,No,2025-03-13,Adopted,Shy but loving
+1683,15,Geri,Dog,Cocker Spaniel,4.3,Male,Large,Orange,Playful,Medium,Unknown,Unknown,Unknown,Yes,No,2025-01-30,Adopted,Shy but loving
+1684,15,Sasho,Cat,Siamese,1.9,Female,Small,Orange,Protective,High,Yes,Unknown,Special needs,No,No,2024-05-07,Adopted,Very social
+1685,15,Dara,Dog,Beagle,1.6,Female,Medium,Gray,Affectionate,Medium,No,Unknown,Special needs,No,No,2024-04-12,Available,Very social
+1686,15,Pavel,Cat,Ragdoll,13.2,Male,Small,Cream,Friendly,Medium,No,Unknown,Unknown,No,Yes,2024-03-16,Reserved,Needs training
+1687,15,Zoya,Cat,Maine Coon,14.7,Female,Medium,Gray,Calm,Medium,Unknown,Unknown,Unknown,No,Yes,2024-09-20,Available,Great with families
+1688,15,Lili,Dog,Rottweiler,9.9,Female,Medium,White,Playful,High,Unknown,Unknown,Unknown,No,Yes,2024-11-13,Adopted,Great with families
+1689,15,Mira,Cat,Mixed,0.7,Male,Medium,Brown,Friendly,Low,Unknown,No,Special needs,No,Yes,2024-02-04,Available,Very social
+1690,16,Stella,Dog,Bulldog,9.5,Male,Medium,Mixed,Protective,Low,No,No,Special needs,No,Yes,2025-08-27,Adopted,Very social
+1691,16,Zoya,Dog,Golden Retriever,12.2,Female,Medium,Mixed,Energetic,Low,Yes,Unknown,Unknown,Yes,No,2025-03-23,Adopted,Calm temperament
+1692,16,Zoya,Cat,Persian,0.8,Male,Medium,White,Independent,Low,Unknown,Unknown,Unknown,Yes,No,2023-11-10,Reserved,Great with families
+1693,16,Toni,Dog,Beagle,14.2,Male,Medium,Golden,Protective,High,No,No,Healthy,Yes,No,2025-08-09,Adopted,Shy but loving
+1694,16,Emo,Dog,Husky,10.0,Male,Large,Black,Shy,Low,Yes,Yes,Special needs,Yes,Yes,2025-02-02,Reserved,Adapts easily
+1695,16,Stella,Cat,Ragdoll,14.3,Male,Small,Golden,Friendly,High,Yes,No,Special needs,Yes,Yes,2024-02-08,Adopted,Calm temperament
+1696,16,Koko,Cat,Sphynx,0.8,Male,Small,Brown,Affectionate,High,Unknown,No,Special needs,No,No,2025-02-24,Adopted,Great with families
+1697,16,Raya,Cat,Persian,7.4,Female,Medium,Cream,Shy,Medium,No,Yes,Unknown,No,Yes,2024-06-23,Available,Prefers quiet environment
+1698,16,Niko,Dog,Cocker Spaniel,11.2,Female,Medium,Golden,Playful,Low,No,No,Special needs,Yes,Yes,2025-03-20,Adopted,Calm temperament
+1699,16,Lili,Dog,Bulldog,11.0,Female,Large,Golden,Protective,Low,No,No,Unknown,Yes,No,2024-11-05,Reserved,Shy but loving
+1700,16,Toni,Cat,Maine Coon,6.5,Female,Medium,Orange,Energetic,Medium,No,Unknown,Special needs,Yes,Yes,2025-07-16,Reserved,Prefers quiet environment
+1701,16,Mila,Dog,Poodle,7.4,Male,Small,Orange,Energetic,High,No,Yes,Special needs,Yes,Yes,2024-10-30,Reserved,Playful and energetic
+1702,16,Ivo,Cat,Mixed,2.2,Male,Medium,Orange,Energetic,Medium,No,Yes,Unknown,Yes,Yes,2025-05-15,Available,Shy but loving
+1703,16,Toni,Cat,Siamese,0.9,Male,Medium,Golden,Playful,High,Yes,Unknown,Special needs,No,Yes,2024-05-25,Reserved,Calm temperament
+1704,16,Petya,Cat,Ragdoll,10.4,Male,Medium,Golden,Playful,High,Yes,No,Healthy,No,No,2023-11-29,Reserved,Very social
+1705,16,Rado,Dog,Labrador Retriever,8.4,Female,Large,Cream,Energetic,High,No,Yes,Healthy,Yes,No,2024-05-09,Available,Great with families
+1706,16,Zoya,Dog,Beagle,6.4,Male,Small,Black,Shy,Medium,Unknown,Yes,Special needs,Yes,No,2023-11-05,Available,Calm temperament
+1707,16,Rado,Dog,Rottweiler,1.5,Female,Small,Black,Shy,High,Yes,No,Unknown,Yes,Yes,2025-08-20,Available,Shy but loving
+1708,16,Vasko,Cat,Maine Coon,6.4,Male,Medium,White,Friendly,Medium,Yes,No,Healthy,No,No,2025-03-28,Reserved,Needs training
+1709,16,Niko,Cat,Ragdoll,8.8,Male,Medium,Gray,Independent,Medium,Unknown,Unknown,Healthy,Yes,Yes,2024-10-04,Reserved,Very social
+1710,16,Rado,Cat,Persian,2.1,Male,Small,White,Energetic,Medium,No,No,Healthy,Yes,Yes,2025-02-20,Available,Needs training
+1711,16,Sasho,Cat,Siamese,3.5,Female,Medium,Golden,Affectionate,Low,Unknown,Yes,Unknown,No,Yes,2023-12-28,Reserved,Calm temperament
+1712,16,Mira,Dog,Beagle,11.8,Female,Small,Black,Affectionate,Medium,Unknown,No,Unknown,Yes,No,2025-04-14,Adopted,Adapts easily
+1713,16,Dara,Dog,Rottweiler,11.6,Male,Small,Cream,Friendly,High,Yes,Unknown,Unknown,No,No,2025-04-06,Available,Calm temperament
+1714,16,Zoya,Dog,Bulldog,7.8,Male,Large,Black,Playful,Low,Yes,Unknown,Healthy,Yes,Yes,2024-12-14,Adopted,Great with families
+1715,16,Toni,Cat,Bengal,4.7,Male,Small,White,Playful,Low,Unknown,Yes,Healthy,Yes,Yes,2024-08-25,Available,Very social
+1716,16,Koko,Cat,Mixed,7.3,Male,Small,Mixed,Protective,Medium,No,Yes,Special needs,No,No,2024-07-06,Available,Adapts easily
+1717,16,Niko,Cat,Mixed,1.1,Female,Medium,White,Shy,High,Yes,No,Healthy,Yes,No,2024-11-27,Adopted,Prefers quiet environment
+1718,16,Niko,Dog,German Shepherd,2.0,Male,Small,Gray,Protective,Low,Unknown,Yes,Special needs,No,No,2024-06-22,Reserved,Great with families
+1719,16,Petya,Dog,German Shepherd,3.6,Male,Medium,Black,Protective,High,No,Yes,Healthy,Yes,Yes,2023-10-12,Available,Playful and energetic
+1720,16,Lili,Dog,Poodle,3.4,Female,Medium,Cream,Independent,High,Unknown,No,Special needs,No,Yes,2023-10-10,Available,Playful and energetic
+1721,16,Geri,Cat,Bengal,9.9,Female,Medium,Gray,Playful,High,Unknown,Yes,Unknown,Yes,No,2025-05-16,Available,Adapts easily
+1722,16,Tosho,Dog,Cocker Spaniel,6.8,Female,Small,Mixed,Calm,Low,Unknown,Unknown,Unknown,Yes,No,2025-06-07,Adopted,Needs training
+1723,16,Mila,Cat,Maine Coon,3.3,Male,Medium,Golden,Affectionate,High,Unknown,Unknown,Healthy,No,No,2023-10-24,Available,Playful and energetic
+1724,16,Sasho,Cat,Ragdoll,5.3,Female,Small,Golden,Playful,Low,Yes,Yes,Unknown,Yes,No,2024-11-07,Adopted,Playful and energetic
+1725,16,Dara,Dog,Labrador Retriever,1.1,Male,Large,White,Energetic,High,No,Unknown,Unknown,No,No,2024-01-01,Available,Playful and energetic
+1726,16,Koko,Cat,British Shorthair,14.0,Male,Small,Cream,Affectionate,Medium,No,Yes,Unknown,No,No,2024-03-20,Available,Playful and energetic
+1727,16,Ivo,Cat,Sphynx,10.2,Male,Medium,Golden,Shy,Medium,No,No,Healthy,No,Yes,2024-08-24,Available,Needs training
+1728,16,Tosho,Cat,Mixed,5.8,Male,Small,Cream,Independent,High,Unknown,Yes,Special needs,Yes,Yes,2025-03-08,Reserved,Great with families
+1729,16,Mira,Cat,Siamese,4.3,Male,Medium,Mixed,Friendly,Medium,No,Unknown,Special needs,Yes,Yes,2024-01-18,Available,Adapts easily
+1730,16,Zoya,Dog,German Shepherd,5.1,Female,Medium,Orange,Shy,High,Yes,No,Special needs,Yes,Yes,2025-05-07,Adopted,Shy but loving
+1731,16,Stella,Cat,Bengal,4.4,Female,Medium,Orange,Shy,Medium,Yes,No,Unknown,Yes,No,2025-09-17,Available,Playful and energetic
+1732,16,Rado,Dog,Husky,7.4,Female,Small,Gray,Calm,High,No,No,Healthy,No,Yes,2025-09-29,Available,Playful and energetic
+1733,16,Mira,Dog,Bulldog,14.7,Male,Small,Brown,Energetic,Low,Yes,No,Special needs,No,No,2025-08-20,Adopted,Playful and energetic
+1734,16,Lili,Cat,Persian,7.1,Female,Small,Brown,Calm,Low,Unknown,No,Special needs,Yes,Yes,2023-12-03,Available,Shy but loving
+1735,16,Petya,Cat,Maine Coon,11.1,Female,Medium,White,Affectionate,Low,Unknown,Yes,Healthy,No,No,2025-02-23,Available,Great with families
+1736,16,Sasho,Cat,Siamese,11.4,Female,Medium,Gray,Calm,Medium,Yes,No,Unknown,Yes,Yes,2024-01-29,Adopted,Calm temperament
+1737,16,Ivo,Cat,Maine Coon,4.4,Female,Small,White,Friendly,Low,Yes,No,Special needs,No,No,2024-09-10,Adopted,Shy but loving
+1738,16,Toni,Cat,Sphynx,7.9,Female,Small,Cream,Playful,High,Yes,No,Special needs,Yes,No,2024-02-07,Adopted,Playful and energetic
+1739,16,Mila,Cat,British Shorthair,5.9,Female,Medium,Brown,Shy,High,Yes,Yes,Unknown,No,No,2025-03-25,Available,Calm temperament
+1740,16,Zoya,Dog,Poodle,10.8,Male,Large,Cream,Shy,High,No,Unknown,Special needs,Yes,No,2024-10-06,Adopted,Adapts easily
+1741,16,Mila,Cat,Siamese,1.2,Female,Small,Cream,Playful,Low,Yes,No,Unknown,No,Yes,2024-03-17,Reserved,Adapts easily
+1742,17,Toni,Cat,Siamese,14.2,Female,Medium,Golden,Energetic,Medium,Unknown,Yes,Special needs,Yes,No,2025-01-31,Adopted,Very social
+1743,17,Misho,Cat,Ragdoll,8.0,Female,Small,Orange,Protective,Medium,No,Yes,Special needs,No,Yes,2024-07-11,Reserved,Very social
+1744,17,Geri,Dog,Bulldog,12.5,Male,Medium,Orange,Playful,High,Yes,Unknown,Unknown,Yes,Yes,2024-07-02,Available,Playful and energetic
+1745,17,Stella,Dog,German Shepherd,6.6,Male,Small,Golden,Calm,Low,Unknown,Yes,Healthy,No,No,2024-01-16,Reserved,Needs training
+1746,17,Reni,Dog,Labrador Retriever,7.7,Female,Medium,Gray,Shy,High,Unknown,Unknown,Unknown,Yes,Yes,2024-10-13,Available,Needs training
+1747,17,Boris,Dog,Rottweiler,11.9,Female,Medium,Brown,Friendly,High,Unknown,Unknown,Unknown,No,Yes,2024-07-11,Adopted,Shy but loving
+1748,17,Misho,Cat,Persian,5.0,Female,Medium,Orange,Affectionate,Low,Yes,Yes,Unknown,No,No,2025-08-03,Adopted,Needs training
+1749,17,Dara,Cat,Siamese,14.6,Female,Small,Golden,Energetic,Medium,Unknown,No,Special needs,No,Yes,2023-10-14,Reserved,Shy but loving
+1750,17,Rado,Dog,Bulldog,4.0,Male,Medium,Gray,Independent,Low,Unknown,Yes,Special needs,Yes,Yes,2024-01-01,Reserved,Great with families
+1751,17,Boris,Dog,Labrador Retriever,3.6,Female,Medium,Mixed,Calm,High,Unknown,No,Unknown,Yes,No,2024-03-26,Available,Needs training
+1752,17,Misho,Dog,Poodle,2.5,Female,Small,Orange,Independent,Low,Yes,Yes,Healthy,No,Yes,2024-07-21,Available,Shy but loving
+1753,17,Misho,Cat,Sphynx,1.8,Male,Small,White,Shy,Medium,No,Yes,Special needs,Yes,Yes,2025-03-19,Available,Needs training
+1754,17,Toni,Cat,Bengal,5.0,Female,Medium,Orange,Affectionate,Low,Yes,Yes,Healthy,Yes,Yes,2024-11-08,Reserved,Playful and energetic
+1755,17,Rado,Dog,Labrador Retriever,2.0,Male,Large,Mixed,Protective,Medium,No,Unknown,Unknown,No,Yes,2024-08-04,Adopted,Great with families
+1756,17,Niko,Cat,Persian,2.9,Female,Small,White,Friendly,Medium,Yes,No,Unknown,Yes,Yes,2024-06-24,Reserved,Playful and energetic
+1757,17,Deyan,Cat,British Shorthair,14.6,Male,Small,Brown,Affectionate,High,Unknown,Unknown,Special needs,No,No,2024-02-19,Reserved,Shy but loving
+1758,17,Emo,Dog,Golden Retriever,10.1,Female,Small,Black,Calm,Medium,Unknown,Unknown,Special needs,Yes,Yes,2024-08-05,Available,Prefers quiet environment
+1759,17,Pavel,Cat,Ragdoll,1.6,Female,Medium,Orange,Friendly,High,Unknown,Unknown,Healthy,Yes,No,2024-10-19,Adopted,Needs training
+1760,17,Mila,Dog,Mixed,13.2,Male,Medium,Orange,Affectionate,Low,Unknown,No,Special needs,No,No,2025-05-09,Available,Needs training
+1761,17,Rado,Dog,German Shepherd,3.6,Female,Large,Brown,Playful,High,No,Unknown,Special needs,Yes,No,2025-05-23,Adopted,Adapts easily
+1762,17,Petya,Dog,Labrador Retriever,5.0,Female,Large,Gray,Shy,Medium,Yes,Yes,Unknown,Yes,No,2025-04-06,Adopted,Needs training
+1763,17,Ivo,Dog,Beagle,3.3,Female,Large,Orange,Independent,Low,Yes,No,Unknown,Yes,No,2025-09-11,Reserved,Adapts easily
+1764,17,Toni,Dog,Poodle,8.6,Female,Small,Orange,Playful,Low,Yes,Yes,Unknown,No,No,2024-10-18,Adopted,Great with families
+1765,17,Dara,Cat,Sphynx,1.0,Female,Small,White,Energetic,Low,No,No,Special needs,No,Yes,2024-03-21,Reserved,Needs training
+1766,17,Pavel,Dog,Bulldog,6.1,Male,Large,Orange,Friendly,Low,Unknown,Unknown,Unknown,No,No,2025-07-12,Available,Great with families
+1767,17,Ivo,Dog,Rottweiler,5.7,Female,Medium,White,Independent,Medium,Unknown,Unknown,Healthy,No,No,2024-12-31,Reserved,Great with families
+1768,17,Deyan,Cat,British Shorthair,13.6,Male,Medium,Orange,Independent,Low,Yes,Yes,Healthy,No,No,2025-09-15,Available,Very social
+1769,17,Petya,Cat,Mixed,1.3,Male,Medium,White,Friendly,Low,Unknown,No,Healthy,No,No,2024-09-05,Available,Very social
+1770,17,Deyan,Cat,British Shorthair,9.9,Male,Medium,Golden,Friendly,Medium,Unknown,Yes,Special needs,Yes,Yes,2025-07-24,Available,Calm temperament
+1771,17,Tosho,Dog,Cocker Spaniel,7.9,Female,Medium,Orange,Playful,Low,No,Unknown,Unknown,Yes,Yes,2025-05-29,Reserved,Shy but loving
+1772,17,Geri,Dog,Rottweiler,2.6,Male,Small,Cream,Calm,High,No,Yes,Unknown,No,No,2024-02-19,Available,Shy but loving
+1773,17,Dara,Dog,Cocker Spaniel,9.6,Female,Large,Cream,Friendly,Low,Yes,Unknown,Unknown,Yes,Yes,2024-07-13,Reserved,Playful and energetic
+1774,17,Misho,Dog,Beagle,2.6,Female,Medium,White,Calm,Medium,Yes,Unknown,Unknown,No,Yes,2023-11-09,Reserved,Shy but loving
+1775,17,Sasho,Cat,Siamese,3.8,Female,Small,Gray,Calm,High,Unknown,Yes,Unknown,Yes,Yes,2023-11-15,Reserved,Adapts easily
+1776,17,Ivo,Dog,Mixed,9.6,Male,Large,Golden,Protective,Medium,Yes,No,Unknown,Yes,No,2025-02-22,Reserved,Calm temperament
+1777,17,Reni,Cat,Sphynx,5.8,Female,Medium,Black,Energetic,Low,No,Yes,Unknown,Yes,Yes,2024-02-20,Adopted,Calm temperament
+1778,17,Mira,Cat,Persian,3.4,Female,Medium,Mixed,Independent,Low,Yes,Yes,Healthy,Yes,Yes,2024-08-31,Reserved,Adapts easily
+1779,17,Deyan,Dog,Poodle,9.1,Female,Medium,Orange,Affectionate,Medium,Unknown,Yes,Special needs,No,No,2025-02-24,Available,Calm temperament
+1780,17,Koko,Dog,Labrador Retriever,11.8,Male,Medium,Gray,Calm,Low,Unknown,No,Unknown,Yes,Yes,2024-08-11,Reserved,Calm temperament
+1781,17,Geri,Cat,British Shorthair,12.7,Female,Medium,Golden,Shy,Medium,No,Unknown,Healthy,No,Yes,2025-03-12,Adopted,Very social
+1782,17,Emo,Cat,Sphynx,0.8,Female,Medium,Brown,Protective,Low,Yes,Yes,Healthy,Yes,No,2024-01-21,Adopted,Calm temperament
+1783,17,Dara,Dog,Beagle,14.2,Male,Large,Cream,Playful,High,Yes,Yes,Unknown,Yes,No,2024-02-12,Reserved,Needs training
+1784,17,Toni,Cat,Sphynx,10.0,Male,Medium,Gray,Affectionate,High,Yes,No,Unknown,Yes,No,2024-05-11,Available,Great with families
+1785,17,Zoya,Cat,Persian,4.5,Male,Small,Cream,Calm,Medium,Yes,No,Unknown,Yes,No,2024-07-06,Available,Great with families
+1786,17,Dara,Cat,Siamese,14.2,Male,Small,Cream,Energetic,Low,No,Unknown,Unknown,Yes,Yes,2025-02-09,Adopted,Needs training
+1787,17,Pavel,Cat,Sphynx,14.0,Female,Small,White,Energetic,Low,Unknown,Yes,Healthy,No,Yes,2024-05-21,Adopted,Calm temperament
+1788,17,Geri,Dog,Mixed,3.1,Female,Small,Black,Shy,Medium,Unknown,Yes,Healthy,No,No,2025-01-05,Available,Playful and energetic
+1789,17,Reni,Cat,Ragdoll,3.6,Female,Medium,Black,Energetic,Low,Yes,Unknown,Special needs,No,No,2024-05-20,Adopted,Very social
+1790,17,Geri,Dog,Mixed,4.5,Female,Large,Cream,Energetic,High,Yes,Unknown,Unknown,No,No,2025-06-01,Available,Playful and energetic
+1791,17,Lili,Cat,Sphynx,6.3,Female,Small,Gray,Shy,High,Unknown,Unknown,Unknown,No,No,2025-01-02,Reserved,Playful and energetic
+1792,17,Dara,Cat,Persian,4.6,Male,Medium,White,Affectionate,Low,No,Unknown,Unknown,No,Yes,2025-02-17,Adopted,Shy but loving
+1793,17,Boris,Dog,Labrador Retriever,9.5,Male,Large,Mixed,Energetic,Medium,Yes,No,Unknown,No,No,2025-06-04,Reserved,Prefers quiet environment
+1794,17,Petya,Dog,Rottweiler,12.5,Male,Small,Golden,Independent,Low,No,No,Healthy,Yes,No,2023-11-25,Available,Shy but loving
+1795,17,Vasko,Dog,Mixed,4.4,Female,Small,Cream,Protective,Medium,Yes,Unknown,Unknown,No,Yes,2024-01-04,Reserved,Needs training
+1796,17,Ivo,Cat,Bengal,13.4,Female,Medium,Cream,Protective,Medium,Yes,No,Healthy,No,Yes,2024-08-21,Adopted,Needs training
+1797,17,Deyan,Dog,German Shepherd,5.6,Male,Large,White,Independent,High,No,Unknown,Special needs,Yes,No,2023-12-04,Available,Calm temperament
+1798,17,Niko,Cat,Persian,13.8,Male,Medium,Mixed,Affectionate,Medium,Unknown,Yes,Healthy,No,Yes,2024-03-13,Reserved,Needs training
+1799,17,Dara,Cat,Mixed,12.4,Male,Small,Golden,Affectionate,Low,Yes,Yes,Special needs,No,Yes,2025-03-14,Available,Adapts easily
+1800,17,Zoya,Cat,Mixed,6.7,Male,Small,Orange,Independent,High,No,Unknown,Unknown,No,Yes,2024-01-12,Available,Playful and energetic
+1801,17,Toni,Dog,German Shepherd,7.9,Male,Medium,Brown,Protective,High,Yes,Yes,Special needs,Yes,Yes,2023-11-03,Reserved,Playful and energetic
+1802,18,Rado,Dog,Husky,11.8,Male,Medium,Golden,Calm,Low,Yes,No,Unknown,No,No,2024-11-27,Adopted,Adapts easily
+1803,18,Lili,Dog,Beagle,9.4,Female,Medium,Cream,Calm,Medium,Unknown,No,Special needs,Yes,Yes,2025-03-01,Adopted,Playful and energetic
+1804,18,Koko,Cat,British Shorthair,6.1,Male,Medium,Brown,Affectionate,Low,Yes,Yes,Healthy,Yes,Yes,2024-05-09,Reserved,Needs training
+1805,18,Geri,Cat,Persian,1.1,Male,Medium,Cream,Protective,High,No,Unknown,Unknown,Yes,Yes,2024-01-03,Reserved,Shy but loving
+1806,18,Zoya,Cat,Bengal,3.1,Male,Medium,Gray,Protective,Medium,No,Unknown,Unknown,Yes,No,2024-05-11,Reserved,Shy but loving
+1807,18,Lili,Dog,Bulldog,14.0,Male,Small,Cream,Shy,Low,Unknown,Yes,Healthy,Yes,No,2025-06-06,Adopted,Prefers quiet environment
+1808,18,Geri,Dog,German Shepherd,2.7,Male,Medium,Cream,Playful,High,No,Unknown,Healthy,Yes,Yes,2025-01-02,Reserved,Prefers quiet environment
+1809,18,Pavel,Dog,Husky,5.1,Male,Medium,Cream,Calm,Low,No,No,Healthy,No,Yes,2025-03-23,Adopted,Great with families
+1810,18,Mira,Dog,Bulldog,5.8,Female,Large,Orange,Affectionate,Medium,Unknown,Yes,Special needs,Yes,No,2025-03-26,Available,Shy but loving
+1811,18,Niko,Dog,Rottweiler,8.4,Male,Medium,Golden,Playful,High,Unknown,Unknown,Special needs,No,Yes,2025-09-06,Available,Very social
+1812,18,Vasko,Cat,Ragdoll,5.8,Female,Small,White,Calm,Medium,No,No,Special needs,No,Yes,2025-03-02,Adopted,Playful and energetic
+1813,18,Toni,Cat,Persian,4.4,Female,Medium,White,Affectionate,High,No,Yes,Special needs,Yes,No,2025-06-10,Available,Playful and energetic
+1814,18,Stella,Dog,Cocker Spaniel,11.9,Female,Medium,Gray,Independent,Low,Unknown,Unknown,Special needs,No,No,2025-06-24,Available,Playful and energetic
+1815,18,Rado,Dog,Poodle,13.5,Female,Large,Cream,Protective,Low,Unknown,No,Special needs,No,No,2025-07-11,Reserved,Calm temperament
+1816,18,Toni,Cat,Siamese,2.1,Female,Medium,Brown,Friendly,High,Unknown,Unknown,Special needs,Yes,Yes,2025-08-18,Reserved,Prefers quiet environment
+1817,18,Zoya,Dog,Cocker Spaniel,13.7,Male,Large,Cream,Independent,High,Yes,No,Healthy,No,No,2025-10-02,Reserved,Very social
+1818,18,Tosho,Cat,Persian,11.7,Male,Medium,Golden,Friendly,Medium,Yes,No,Healthy,No,Yes,2024-08-16,Available,Calm temperament
+1819,18,Koko,Cat,Persian,14.6,Male,Small,Mixed,Calm,Low,Yes,No,Special needs,No,Yes,2024-07-15,Available,Very social
+1820,18,Mila,Cat,Siamese,2.1,Male,Small,Black,Shy,Medium,No,Unknown,Special needs,Yes,Yes,2023-11-26,Available,Shy but loving
+1821,18,Raya,Cat,British Shorthair,15.0,Male,Medium,Brown,Affectionate,Low,Unknown,Yes,Special needs,No,Yes,2025-01-20,Available,Adapts easily
+1822,18,Mila,Cat,Ragdoll,0.6,Male,Small,Gray,Shy,Low,No,Unknown,Unknown,No,No,2023-10-10,Reserved,Needs training
+1823,18,Mila,Dog,German Shepherd,9.1,Female,Medium,Gray,Affectionate,Medium,Yes,Yes,Special needs,Yes,No,2025-06-13,Available,Shy but loving
+1824,18,Toni,Cat,Siamese,9.4,Male,Small,Orange,Protective,Medium,Unknown,Unknown,Healthy,No,No,2024-12-24,Reserved,Calm temperament
+1825,18,Koko,Cat,Maine Coon,4.9,Male,Medium,Golden,Shy,Medium,No,No,Special needs,No,Yes,2024-09-15,Available,Shy but loving
+1826,18,Toni,Dog,Rottweiler,3.9,Female,Small,Orange,Playful,Low,Unknown,Unknown,Special needs,No,Yes,2025-07-04,Available,Very social
+1827,18,Kuma,Dog,Rottweiler,7.8,Female,Medium,Black,Affectionate,Low,Yes,Yes,Unknown,Yes,No,2023-12-31,Reserved,Shy but loving
+1828,18,Lili,Dog,Beagle,10.8,Male,Large,Brown,Protective,Medium,No,No,Unknown,Yes,Yes,2025-01-27,Available,Needs training
+1829,18,Vasko,Cat,Ragdoll,9.4,Male,Small,Golden,Playful,High,Yes,Yes,Healthy,Yes,Yes,2025-07-27,Reserved,Needs training
+1830,18,Pavel,Dog,Poodle,1.4,Male,Large,Mixed,Calm,High,Unknown,Unknown,Healthy,Yes,No,2024-04-18,Available,Great with families
+1831,18,Stella,Cat,Bengal,14.7,Female,Small,Black,Calm,High,No,Unknown,Unknown,No,Yes,2024-10-18,Available,Very social
+1832,18,Dara,Dog,Golden Retriever,10.6,Male,Large,Black,Independent,High,Unknown,Yes,Healthy,No,No,2024-04-30,Available,Adapts easily
+1833,18,Rado,Cat,Persian,6.0,Female,Small,Mixed,Affectionate,Medium,Yes,No,Unknown,Yes,No,2025-09-04,Adopted,Adapts easily
+1834,18,Emo,Cat,Bengal,8.7,Female,Medium,Orange,Playful,Medium,Yes,No,Healthy,Yes,Yes,2025-08-20,Adopted,Prefers quiet environment
+1835,18,Boris,Dog,Mixed,8.6,Female,Small,Mixed,Playful,Low,Yes,No,Healthy,Yes,No,2023-12-20,Available,Shy but loving
+1836,18,Ivo,Cat,Sphynx,5.8,Male,Medium,Gray,Affectionate,Medium,Unknown,Unknown,Special needs,Yes,No,2025-07-22,Available,Shy but loving
+1837,18,Niko,Dog,Bulldog,4.2,Male,Medium,Mixed,Shy,Low,Unknown,No,Special needs,Yes,Yes,2025-05-14,Adopted,Calm temperament
+1838,18,Koko,Dog,Labrador Retriever,6.2,Male,Medium,White,Independent,Low,No,Yes,Unknown,No,No,2025-07-01,Reserved,Calm temperament
+1839,18,Misho,Cat,Maine Coon,6.1,Female,Medium,Gray,Affectionate,Low,Yes,No,Unknown,Yes,Yes,2025-04-11,Adopted,Needs training
+1840,18,Reni,Cat,Siamese,10.0,Male,Medium,Orange,Energetic,Medium,No,Unknown,Healthy,No,No,2025-02-10,Available,Calm temperament
+1841,18,Mila,Cat,Mixed,14.1,Male,Small,Gray,Independent,Low,Yes,Yes,Healthy,No,Yes,2024-10-19,Available,Very social
+1842,18,Raya,Dog,Golden Retriever,10.0,Female,Small,Mixed,Affectionate,Low,Yes,No,Special needs,Yes,No,2024-03-01,Reserved,Prefers quiet environment
+1843,18,Niko,Cat,Mixed,6.5,Male,Small,Mixed,Shy,High,No,Yes,Healthy,No,No,2024-05-18,Adopted,Very social
+1844,18,Stella,Dog,German Shepherd,6.8,Female,Large,White,Calm,Medium,No,Yes,Healthy,No,No,2025-06-23,Reserved,Adapts easily
+1845,18,Dara,Dog,Golden Retriever,1.5,Female,Medium,Gray,Affectionate,Medium,Unknown,No,Unknown,Yes,Yes,2024-05-09,Available,Very social
+1846,18,Stella,Cat,British Shorthair,5.4,Male,Medium,Cream,Protective,Medium,No,Yes,Unknown,Yes,Yes,2024-08-12,Reserved,Adapts easily
+1847,18,Lili,Dog,Mixed,3.2,Female,Small,Orange,Shy,Medium,No,Yes,Healthy,Yes,No,2024-02-05,Available,Great with families
+1848,18,Toni,Dog,Beagle,0.6,Female,Small,Black,Friendly,Low,Unknown,Unknown,Unknown,No,Yes,2023-12-17,Adopted,Shy but loving
+1849,18,Mira,Cat,Persian,12.7,Male,Medium,Brown,Friendly,High,Yes,No,Special needs,Yes,No,2024-03-29,Reserved,Prefers quiet environment
+1850,18,Toni,Cat,Ragdoll,7.9,Male,Medium,White,Friendly,High,No,No,Unknown,No,Yes,2024-02-01,Available,Adapts easily
+1851,18,Niko,Dog,Husky,14.9,Female,Large,Brown,Playful,Medium,Unknown,Unknown,Special needs,Yes,No,2024-06-25,Available,Calm temperament
+1852,18,Mira,Dog,Golden Retriever,2.4,Female,Small,Orange,Protective,Medium,Unknown,Yes,Healthy,No,Yes,2024-01-23,Available,Needs training
+1853,18,Ivo,Dog,Bulldog,3.9,Female,Large,Black,Affectionate,High,No,Yes,Unknown,Yes,Yes,2024-08-05,Adopted,Very social
+1854,19,Rado,Cat,Maine Coon,12.6,Female,Small,White,Playful,Medium,Unknown,Yes,Special needs,Yes,No,2024-10-30,Reserved,Great with families
+1855,19,Lili,Cat,Persian,7.8,Female,Medium,Golden,Shy,Medium,Yes,Yes,Special needs,Yes,Yes,2025-09-27,Adopted,Very social
+1856,19,Geri,Dog,Mixed,5.1,Male,Large,Orange,Protective,High,Yes,Unknown,Healthy,Yes,No,2023-12-13,Adopted,Needs training
+1857,19,Dara,Dog,Husky,11.6,Male,Large,Brown,Energetic,Low,No,Yes,Unknown,Yes,Yes,2025-09-08,Reserved,Calm temperament
+1858,19,Rado,Cat,British Shorthair,14.7,Female,Small,Golden,Independent,Medium,No,No,Special needs,No,No,2024-05-26,Adopted,Needs training
+1859,19,Geri,Dog,German Shepherd,3.9,Male,Small,Mixed,Energetic,High,Yes,Unknown,Unknown,Yes,Yes,2025-05-08,Adopted,Adapts easily
+1860,19,Misho,Cat,Mixed,6.3,Female,Medium,Black,Playful,Medium,Unknown,No,Special needs,Yes,Yes,2024-09-02,Adopted,Shy but loving
+1861,19,Reni,Cat,British Shorthair,11.8,Male,Small,Orange,Independent,Low,Yes,Yes,Special needs,Yes,Yes,2025-02-23,Adopted,Adapts easily
+1862,19,Vasko,Cat,Sphynx,0.8,Female,Medium,Black,Independent,Low,Unknown,No,Healthy,No,Yes,2024-05-17,Reserved,Playful and energetic
+1863,19,Rado,Dog,Rottweiler,1.4,Female,Medium,Cream,Shy,Medium,No,Unknown,Unknown,No,No,2023-12-09,Adopted,Great with families
+1864,19,Reni,Dog,Mixed,13.5,Female,Small,Black,Energetic,Low,No,Yes,Special needs,Yes,Yes,2024-05-29,Reserved,Prefers quiet environment
+1865,19,Koko,Cat,Persian,5.5,Male,Small,Mixed,Friendly,Medium,Yes,No,Special needs,Yes,Yes,2025-02-02,Available,Great with families
+1866,19,Rado,Cat,Maine Coon,2.2,Male,Small,Gray,Energetic,Low,No,No,Special needs,Yes,No,2024-03-09,Available,Prefers quiet environment
+1867,19,Koko,Dog,Rottweiler,10.8,Female,Large,Golden,Energetic,Low,No,Unknown,Special needs,No,Yes,2023-11-12,Adopted,Prefers quiet environment
+1868,19,Mila,Dog,Mixed,14.8,Male,Medium,White,Calm,High,Unknown,Yes,Healthy,No,Yes,2025-07-31,Reserved,Needs training
+1869,19,Vasko,Dog,Labrador Retriever,2.5,Male,Small,White,Independent,High,No,Yes,Healthy,No,Yes,2023-12-24,Reserved,Calm temperament
+1870,19,Petya,Cat,Sphynx,6.1,Male,Medium,Black,Independent,Medium,No,No,Unknown,No,No,2025-03-16,Adopted,Needs training
+1871,19,Dara,Dog,Poodle,14.8,Male,Small,White,Independent,High,Unknown,Unknown,Healthy,Yes,Yes,2024-08-21,Available,Playful and energetic
+1872,19,Ivo,Cat,Bengal,5.9,Female,Small,Cream,Independent,Low,No,Unknown,Unknown,Yes,Yes,2024-03-25,Available,Very social
+1873,19,Petya,Dog,German Shepherd,11.6,Male,Large,Gray,Playful,Medium,No,No,Unknown,Yes,No,2024-06-22,Available,Playful and energetic
+1874,19,Sasho,Cat,Maine Coon,5.1,Female,Medium,Gray,Playful,Low,Unknown,Unknown,Healthy,No,Yes,2025-01-01,Reserved,Very social
+1875,19,Sasho,Cat,Bengal,8.3,Female,Small,Orange,Shy,Medium,Unknown,Yes,Healthy,No,No,2024-11-07,Available,Very social
+1876,19,Mila,Dog,Bulldog,14.7,Female,Medium,Cream,Shy,High,Yes,Unknown,Unknown,No,Yes,2025-09-30,Reserved,Very social
+1877,19,Rado,Cat,Mixed,6.1,Male,Medium,White,Independent,Low,Yes,Yes,Special needs,No,Yes,2023-10-23,Available,Adapts easily
+1878,19,Lili,Dog,Mixed,1.6,Female,Large,Gray,Protective,Medium,Unknown,No,Unknown,Yes,No,2025-07-28,Reserved,Shy but loving
+1879,19,Pavel,Dog,Mixed,7.0,Female,Medium,Black,Energetic,Medium,Unknown,Yes,Special needs,Yes,Yes,2024-04-02,Available,Calm temperament
+1880,19,Toni,Cat,British Shorthair,7.6,Female,Medium,White,Independent,Low,Yes,No,Special needs,No,No,2025-09-07,Adopted,Great with families
+1881,19,Dara,Dog,Cocker Spaniel,10.1,Female,Medium,Orange,Friendly,Low,Unknown,No,Healthy,No,Yes,2025-02-08,Reserved,Very social
+1882,19,Reni,Dog,Mixed,10.3,Male,Medium,Mixed,Calm,Low,Unknown,No,Healthy,Yes,Yes,2024-01-03,Adopted,Needs training
+1883,19,Toni,Dog,Beagle,14.8,Female,Small,White,Playful,High,Yes,Unknown,Unknown,Yes,No,2023-10-11,Available,Prefers quiet environment
+1884,19,Zoya,Dog,Poodle,2.1,Male,Large,Mixed,Friendly,Medium,Yes,No,Special needs,Yes,Yes,2025-06-20,Adopted,Prefers quiet environment
+1885,19,Reni,Cat,Persian,2.6,Female,Medium,Gray,Energetic,Low,Unknown,Unknown,Special needs,Yes,Yes,2023-11-01,Reserved,Very social
+1886,19,Koko,Dog,Poodle,10.9,Male,Large,White,Shy,High,Unknown,Yes,Unknown,No,Yes,2023-10-28,Available,Shy but loving
+1887,19,Toni,Cat,Maine Coon,1.2,Female,Small,Mixed,Playful,High,Yes,Yes,Healthy,No,Yes,2025-04-18,Adopted,Needs training
+1888,19,Pavel,Cat,Bengal,4.0,Female,Small,Orange,Friendly,Low,Unknown,No,Unknown,Yes,No,2025-08-19,Adopted,Calm temperament
+1889,19,Dara,Cat,Mixed,14.2,Male,Small,Black,Shy,High,Unknown,Yes,Unknown,Yes,Yes,2024-02-15,Adopted,Prefers quiet environment
+1890,19,Mila,Dog,Poodle,13.3,Female,Large,White,Energetic,Low,Yes,No,Special needs,No,Yes,2024-07-21,Available,Prefers quiet environment
+1891,19,Ivo,Dog,Mixed,2.4,Female,Medium,Orange,Independent,Low,Unknown,No,Unknown,No,No,2024-01-18,Available,Shy but loving
+1892,19,Niko,Cat,Mixed,14.1,Female,Medium,Mixed,Protective,Medium,Unknown,Unknown,Unknown,No,Yes,2025-08-30,Reserved,Calm temperament
+1893,19,Dara,Dog,Husky,4.3,Female,Small,Cream,Protective,High,Yes,Yes,Unknown,No,Yes,2024-09-10,Available,Adapts easily
+1894,19,Reni,Dog,Golden Retriever,12.5,Male,Large,Golden,Affectionate,Medium,No,Yes,Healthy,Yes,Yes,2024-12-01,Available,Great with families
+1895,19,Kuma,Cat,Siamese,13.6,Female,Small,Orange,Independent,Medium,Yes,Unknown,Unknown,Yes,No,2023-11-30,Available,Adapts easily
+1896,19,Niko,Dog,Husky,14.5,Male,Small,Brown,Calm,Medium,Unknown,Yes,Unknown,No,No,2025-08-03,Adopted,Very social
+1897,20,Pavel,Dog,Bulldog,5.9,Male,Medium,Mixed,Energetic,Low,No,Yes,Healthy,Yes,No,2024-10-15,Reserved,Great with families
+1898,20,Reni,Dog,Rottweiler,8.6,Male,Large,White,Calm,Medium,Unknown,Yes,Special needs,No,No,2024-05-18,Available,Adapts easily
+1899,20,Mila,Cat,Mixed,10.1,Female,Medium,Orange,Protective,Low,Unknown,Unknown,Healthy,Yes,No,2023-11-04,Available,Calm temperament
+1900,20,Mila,Cat,Sphynx,9.6,Female,Small,Brown,Friendly,High,Yes,No,Healthy,Yes,No,2023-11-11,Reserved,Shy but loving
+1901,20,Geri,Dog,Cocker Spaniel,6.5,Female,Small,Brown,Calm,High,Yes,No,Healthy,Yes,No,2024-02-21,Reserved,Prefers quiet environment
+1902,20,Boris,Dog,Bulldog,14.5,Female,Large,Cream,Protective,Low,Yes,Unknown,Healthy,No,Yes,2025-02-13,Reserved,Prefers quiet environment
+1903,20,Boris,Cat,Mixed,0.9,Female,Medium,Golden,Friendly,High,Unknown,Yes,Unknown,Yes,Yes,2024-10-10,Reserved,Needs training
+1904,20,Reni,Cat,Mixed,0.5,Male,Small,Golden,Shy,Low,Yes,Unknown,Healthy,No,No,2023-11-10,Available,Prefers quiet environment
+1905,20,Pavel,Dog,Husky,11.8,Female,Medium,Brown,Energetic,Low,Yes,No,Healthy,Yes,Yes,2025-01-07,Available,Adapts easily
+1906,20,Geri,Cat,Ragdoll,3.5,Male,Medium,Cream,Protective,Low,Unknown,Unknown,Special needs,No,No,2025-08-04,Available,Playful and energetic
+1907,20,Emo,Cat,Bengal,4.1,Female,Small,Golden,Friendly,Low,No,Unknown,Healthy,No,Yes,2024-08-30,Adopted,Needs training
+1908,20,Emo,Cat,Mixed,10.2,Female,Small,Golden,Affectionate,Medium,Yes,No,Healthy,Yes,No,2024-03-29,Available,Calm temperament
+1909,20,Emo,Dog,Labrador Retriever,7.1,Male,Small,Golden,Affectionate,Low,No,Unknown,Unknown,Yes,No,2025-08-19,Reserved,Prefers quiet environment
+1910,20,Deyan,Dog,Bulldog,5.8,Male,Medium,Gray,Affectionate,High,Unknown,Unknown,Special needs,No,No,2024-11-07,Adopted,Great with families
+1911,20,Koko,Dog,Labrador Retriever,12.9,Male,Medium,Brown,Independent,Low,Yes,No,Healthy,Yes,Yes,2024-05-08,Reserved,Very social
+1912,20,Mira,Dog,Husky,2.4,Female,Small,Mixed,Calm,Low,No,Unknown,Healthy,Yes,Yes,2024-06-24,Available,Needs training
+1913,20,Raya,Cat,Bengal,7.8,Male,Medium,Gray,Affectionate,Medium,Unknown,Unknown,Unknown,Yes,No,2024-04-03,Adopted,Very social
+1914,20,Reni,Cat,Persian,9.3,Male,Small,Black,Energetic,Medium,Yes,No,Unknown,No,Yes,2024-12-14,Available,Playful and energetic
+1915,20,Mira,Dog,Mixed,14.7,Male,Medium,Orange,Protective,High,No,Unknown,Special needs,Yes,No,2025-08-19,Adopted,Great with families
+1916,20,Geri,Cat,Persian,2.8,Female,Small,Golden,Playful,Low,Yes,No,Healthy,Yes,No,2025-06-06,Adopted,Adapts easily
+1917,20,Mila,Cat,Sphynx,1.5,Female,Small,Cream,Protective,Low,Yes,Unknown,Unknown,Yes,Yes,2025-06-06,Reserved,Playful and energetic
+1918,20,Kuma,Cat,Mixed,10.9,Female,Small,Mixed,Friendly,Low,Unknown,Unknown,Special needs,No,Yes,2024-04-25,Adopted,Adapts easily
+1919,20,Ivo,Dog,Mixed,1.4,Male,Small,Black,Protective,Medium,Yes,Unknown,Healthy,Yes,No,2023-11-19,Available,Shy but loving
+1920,20,Kuma,Cat,Ragdoll,5.1,Female,Medium,White,Protective,Medium,Unknown,No,Special needs,No,Yes,2024-04-04,Reserved,Very social
+1921,20,Niko,Dog,Bulldog,6.4,Male,Small,Black,Energetic,Medium,No,Unknown,Unknown,Yes,No,2025-01-04,Reserved,Playful and energetic
+1922,20,Pavel,Cat,Mixed,10.5,Female,Medium,Brown,Friendly,High,No,No,Special needs,No,No,2024-11-23,Reserved,Prefers quiet environment
+1923,20,Tosho,Dog,Poodle,10.0,Female,Medium,Brown,Calm,High,Unknown,No,Special needs,Yes,No,2024-08-03,Reserved,Very social
+1924,20,Misho,Dog,Rottweiler,13.5,Female,Small,Black,Friendly,Medium,No,Unknown,Special needs,No,Yes,2025-06-24,Available,Playful and energetic
+1925,20,Emo,Dog,Rottweiler,11.0,Male,Small,Mixed,Energetic,Medium,Yes,Unknown,Special needs,No,Yes,2024-07-15,Reserved,Playful and energetic
+1926,20,Stella,Dog,Labrador Retriever,9.9,Male,Medium,Mixed,Energetic,Low,Yes,Yes,Healthy,Yes,Yes,2025-02-12,Available,Very social
+1927,20,Zoya,Cat,British Shorthair,5.7,Female,Medium,Golden,Protective,High,Yes,Yes,Healthy,Yes,Yes,2025-07-21,Adopted,Great with families
+1928,20,Deyan,Dog,Beagle,8.8,Male,Small,Brown,Shy,High,No,Yes,Special needs,No,No,2025-07-02,Reserved,Shy but loving
+1929,20,Petya,Cat,Sphynx,2.5,Male,Small,Gray,Energetic,Low,Unknown,Yes,Special needs,Yes,No,2024-01-14,Available,Prefers quiet environment
+1930,20,Raya,Dog,Labrador Retriever,9.0,Female,Medium,Golden,Shy,Low,No,No,Unknown,No,No,2024-05-29,Reserved,Calm temperament
+1931,20,Mira,Dog,Cocker Spaniel,4.7,Male,Large,Gray,Energetic,High,Yes,No,Healthy,No,No,2025-08-14,Adopted,Adapts easily
+1932,20,Emo,Dog,Labrador Retriever,14.2,Male,Large,Gray,Energetic,Low,No,Yes,Healthy,Yes,No,2025-06-20,Reserved,Needs training
+1933,20,Koko,Cat,Ragdoll,10.3,Male,Medium,Black,Shy,Medium,Unknown,No,Healthy,Yes,Yes,2024-03-28,Adopted,Needs training
+1934,20,Koko,Cat,Bengal,6.2,Male,Medium,Mixed,Calm,High,Unknown,Yes,Healthy,Yes,Yes,2024-08-30,Reserved,Needs training
+1935,20,Vasko,Dog,Bulldog,7.8,Female,Large,Mixed,Shy,Medium,Yes,No,Special needs,No,Yes,2025-01-29,Adopted,Adapts easily
+1936,21,Geri,Cat,Siamese,4.9,Female,Small,Mixed,Friendly,High,No,No,Special needs,Yes,No,2025-02-03,Available,Very social
+1937,21,Deyan,Dog,Poodle,10.5,Female,Small,Golden,Playful,Low,Unknown,Yes,Healthy,No,Yes,2024-05-02,Reserved,Needs training
+1938,21,Ivo,Dog,German Shepherd,13.1,Male,Medium,Gray,Calm,High,Yes,No,Healthy,No,Yes,2025-02-22,Reserved,Very social
+1939,21,Geri,Dog,Mixed,4.8,Female,Small,Golden,Energetic,High,Yes,Unknown,Special needs,No,No,2025-05-17,Reserved,Prefers quiet environment
+1940,21,Geri,Cat,Maine Coon,1.5,Female,Small,Mixed,Affectionate,Medium,Yes,No,Healthy,Yes,No,2024-05-07,Reserved,Shy but loving
+1941,21,Toni,Dog,Husky,2.1,Female,Small,Black,Affectionate,Low,Unknown,No,Healthy,No,Yes,2024-12-09,Available,Shy but loving
+1942,21,Lili,Cat,Ragdoll,8.1,Female,Small,Cream,Energetic,Low,Yes,No,Special needs,Yes,No,2025-04-04,Adopted,Very social
+1943,21,Lili,Dog,Poodle,9.2,Female,Small,Cream,Energetic,High,No,No,Special needs,Yes,No,2024-12-01,Available,Very social
+1944,21,Zoya,Dog,Golden Retriever,5.9,Female,Large,White,Calm,Medium,Yes,Yes,Unknown,Yes,No,2024-02-01,Available,Adapts easily
+1945,21,Raya,Cat,Siamese,13.5,Male,Small,Gray,Calm,High,No,No,Special needs,Yes,No,2024-07-21,Adopted,Great with families
+1946,21,Dara,Cat,Sphynx,9.7,Male,Medium,White,Protective,High,Yes,Yes,Special needs,No,No,2025-09-04,Available,Playful and energetic
+1947,21,Stella,Cat,Maine Coon,3.3,Male,Small,Golden,Independent,Medium,Yes,Unknown,Unknown,No,No,2025-08-15,Available,Very social
+1948,21,Lili,Dog,Bulldog,1.7,Female,Medium,Cream,Protective,Medium,Yes,No,Healthy,Yes,Yes,2024-05-03,Reserved,Great with families
+1949,21,Stella,Dog,Labrador Retriever,11.2,Male,Large,White,Affectionate,Medium,Unknown,No,Special needs,No,No,2024-09-09,Available,Needs training
+1950,21,Zoya,Cat,Ragdoll,2.4,Male,Small,Cream,Independent,High,Yes,Unknown,Special needs,Yes,No,2024-08-11,Adopted,Shy but loving
+1951,21,Mira,Dog,German Shepherd,9.8,Male,Medium,Mixed,Independent,Medium,Yes,Unknown,Special needs,Yes,No,2025-09-03,Available,Prefers quiet environment
+1952,21,Rado,Dog,Cocker Spaniel,8.8,Female,Large,Gray,Affectionate,Low,Unknown,No,Special needs,Yes,Yes,2025-08-02,Adopted,Adapts easily
+1953,21,Boris,Cat,Siamese,7.2,Female,Medium,White,Protective,High,Yes,No,Unknown,Yes,No,2024-07-08,Reserved,Calm temperament
+1954,21,Tosho,Cat,Persian,9.1,Female,Small,Mixed,Protective,Low,Unknown,Yes,Unknown,Yes,No,2024-12-17,Adopted,Very social
+1955,21,Petya,Dog,Mixed,5.2,Female,Medium,Mixed,Calm,Medium,No,Unknown,Special needs,No,No,2024-09-22,Available,Adapts easily
+1956,21,Niko,Cat,Bengal,9.7,Female,Small,Cream,Affectionate,High,Yes,No,Unknown,No,Yes,2024-10-16,Adopted,Great with families
+1957,21,Ivo,Dog,Husky,8.2,Male,Large,Gray,Shy,Low,No,No,Healthy,Yes,No,2024-11-10,Adopted,Great with families
+1958,21,Koko,Dog,Golden Retriever,1.7,Male,Large,Mixed,Independent,Medium,Unknown,Yes,Healthy,No,No,2025-01-04,Available,Great with families
+1959,21,Sasho,Cat,Siamese,8.2,Male,Medium,Golden,Friendly,Medium,Yes,Unknown,Special needs,Yes,Yes,2023-11-12,Reserved,Great with families
+1960,21,Niko,Dog,Golden Retriever,5.6,Female,Small,Gray,Shy,Medium,Yes,No,Healthy,No,Yes,2024-06-25,Adopted,Prefers quiet environment
+1961,21,Niko,Dog,Poodle,2.6,Male,Large,Gray,Shy,Medium,Unknown,No,Unknown,Yes,No,2024-06-18,Reserved,Great with families
+1962,21,Raya,Cat,Persian,4.1,Female,Small,Mixed,Affectionate,Medium,Yes,Unknown,Healthy,Yes,No,2025-05-22,Available,Prefers quiet environment
+1963,21,Mira,Dog,Golden Retriever,11.0,Male,Large,Brown,Shy,High,No,Yes,Unknown,No,No,2024-10-09,Adopted,Great with families
+1964,21,Sasho,Cat,Ragdoll,10.5,Male,Small,Orange,Protective,Low,No,No,Healthy,No,No,2024-04-13,Adopted,Great with families
+1965,21,Rado,Cat,Bengal,2.5,Male,Small,Black,Independent,Low,Unknown,Unknown,Special needs,No,No,2025-08-20,Adopted,Playful and energetic
+1966,21,Ivo,Cat,Persian,3.3,Male,Small,Brown,Protective,Low,No,No,Healthy,Yes,Yes,2024-05-17,Reserved,Very social
+1967,21,Stella,Dog,Cocker Spaniel,2.0,Female,Small,Gray,Calm,Medium,Unknown,No,Special needs,Yes,No,2025-06-17,Available,Shy but loving
+1968,21,Mira,Cat,Bengal,10.8,Male,Small,Golden,Independent,Low,Yes,Unknown,Unknown,No,Yes,2025-08-29,Adopted,Prefers quiet environment
+1969,21,Rado,Dog,Rottweiler,10.1,Male,Small,Golden,Calm,Low,No,Unknown,Unknown,No,Yes,2023-12-14,Available,Prefers quiet environment
+1970,21,Lili,Cat,Persian,0.5,Male,Medium,Gray,Shy,High,No,No,Special needs,Yes,No,2024-08-14,Adopted,Very social
+1971,21,Niko,Dog,Cocker Spaniel,12.6,Male,Medium,Golden,Shy,Low,Yes,No,Healthy,Yes,No,2023-12-06,Available,Playful and energetic
+1972,21,Pavel,Cat,British Shorthair,1.7,Male,Small,White,Protective,Medium,Yes,Yes,Special needs,No,No,2025-06-06,Adopted,Needs training
+1973,21,Emo,Dog,Mixed,14.4,Male,Medium,Mixed,Energetic,High,Unknown,Yes,Special needs,Yes,Yes,2025-01-21,Reserved,Calm temperament
+1974,21,Raya,Cat,Persian,10.5,Male,Medium,Gray,Protective,Low,No,Yes,Healthy,No,No,2025-03-29,Reserved,Calm temperament
+1975,21,Zoya,Cat,Siamese,5.5,Female,Small,Black,Affectionate,High,No,Unknown,Healthy,No,Yes,2025-06-05,Available,Very social
+1976,21,Lili,Dog,Labrador Retriever,11.5,Male,Small,Mixed,Shy,High,No,Yes,Healthy,Yes,No,2025-08-29,Adopted,Adapts easily
+1977,21,Misho,Cat,Bengal,1.7,Male,Medium,Cream,Protective,Medium,Yes,Yes,Unknown,Yes,No,2025-05-25,Available,Prefers quiet environment
+1978,21,Mira,Cat,British Shorthair,3.4,Female,Small,Gray,Independent,High,No,No,Healthy,No,No,2024-04-09,Reserved,Adapts easily
+1979,21,Geri,Cat,Siamese,1.7,Male,Medium,Gray,Protective,High,Yes,No,Healthy,No,Yes,2025-10-02,Adopted,Prefers quiet environment
+1980,21,Toni,Cat,Sphynx,14.2,Female,Medium,Gray,Protective,High,Unknown,No,Unknown,Yes,Yes,2024-03-18,Reserved,Needs training
+1981,21,Koko,Cat,Siamese,9.8,Male,Medium,White,Playful,Medium,Unknown,Unknown,Special needs,No,Yes,2024-12-30,Adopted,Calm temperament
+1982,21,Koko,Dog,Mixed,7.7,Male,Large,Golden,Independent,High,Yes,No,Healthy,No,No,2023-11-29,Reserved,Very social
+1983,21,Boris,Dog,German Shepherd,0.2,Male,Small,Cream,Playful,Low,Yes,No,Special needs,No,No,2025-07-07,Available,Needs training
+1984,21,Mira,Dog,Labrador Retriever,12.1,Male,Medium,White,Energetic,High,Unknown,Unknown,Healthy,No,No,2024-08-23,Reserved,Great with families
+1985,21,Koko,Dog,Husky,3.8,Female,Large,White,Friendly,Low,Unknown,No,Healthy,Yes,No,2025-07-04,Adopted,Prefers quiet environment
+1986,21,Koko,Cat,British Shorthair,10.5,Female,Medium,Gray,Independent,High,Unknown,Yes,Unknown,Yes,No,2024-02-06,Reserved,Prefers quiet environment
+1987,21,Dara,Cat,Sphynx,7.4,Male,Medium,Cream,Energetic,Medium,No,No,Special needs,Yes,No,2025-03-14,Available,Playful and energetic
+1988,21,Koko,Cat,Bengal,5.0,Male,Medium,Golden,Protective,Low,Unknown,No,Special needs,Yes,Yes,2025-05-11,Reserved,Needs training
+1989,21,Sasho,Cat,Persian,2.0,Male,Small,Black,Friendly,Low,No,Unknown,Special needs,Yes,Yes,2024-11-21,Available,Needs training
+1990,21,Koko,Dog,German Shepherd,5.3,Female,Large,Brown,Affectionate,High,No,Unknown,Special needs,Yes,Yes,2023-11-20,Available,Very social
+1991,21,Kuma,Dog,Husky,4.1,Female,Large,Golden,Protective,Medium,No,Unknown,Healthy,Yes,No,2025-08-10,Adopted,Great with families
